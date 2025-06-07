@@ -5,7 +5,7 @@ for [Prosperous Universe](https://prosperousuniverse.com/).
 
 ## Endpoints
 
-### Plante Index
+### Planet Index
 
 https://raw.githubusercontent.com/ebitkov/fio-extension/refs/heads/main/csv/planets/index.csv
 
