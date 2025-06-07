@@ -5,6 +5,12 @@ for [Prosperous Universe](https://prosperousuniverse.com/).
 
 ## Endpoints
 
+### Plante Index
+
+https://raw.githubusercontent.com/ebitkov/fio-extension/refs/heads/main/csv/planets/index.csv
+
+An index of all planets, including their natural ID, name and distance to the different CX.
+
 ### Planets of a Region
 
 Antares: https://raw.githubusercontent.com/ebitkov/fio-extension/refs/heads/main/csv/planets/antares.csv
