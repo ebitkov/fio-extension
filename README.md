@@ -5,18 +5,28 @@ for [Prosperous Universe](https://prosperousuniverse.com/).
 
 ## Endpoints
 
-### Planet Index
+### Planets
+
+#### Index
 
 https://raw.githubusercontent.com/ebitkov/fio-extension/refs/heads/main/csv/planets/index.csv
 
 An index of all planets, including their natural ID, name and distance to the different CX.
 
-### Planets of a Region
+#### Regional
 
 Antares: https://raw.githubusercontent.com/ebitkov/fio-extension/refs/heads/main/csv/planets/antares.csv
 
 This aggregated list displays details about environmental conditions, current population, current COGC and player base
 count of planets in the Antares region.
+
+#### Player Sites
+
+https://github.com/ebitkov/fio-extension/tree/main/csv/planet-sites
+
+Daily aggregation of player bases on a planet. Planetary infrastructure (like CoG Center, warehouses, etc.) are already
+excluded. Only planets with at least one player base are present in the list. If there is no file for a planet, then
+there is probably nobody living there.
 
 ### Population Consumption Index
 
