@@ -41,3 +41,9 @@ https://docs.google.com/spreadsheets/d/1TldTCpqeFSdPKbMz7fV7QXBth4b8y1yvZnouotzG
 
 Displays the data as line graphs. The timeframe can be configured, and it calculates the overall costs increase over the
 set time.
+
+## How is the data collected?
+
+There is a secondary private repository hosted on GitHub, which runs daily and
+weekly [actions scripts](https://github.com/features/actions) to collect and
+aggregate the data from FIO and commit it to this repository.
