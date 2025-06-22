@@ -128,7 +128,7 @@ TD-152e,TD-152e,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,
 TD-152f,TD-152f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,28,21,27,25,19
 TD-152g,TD-152g,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,28,21,27,25,19
 TD-203a,TD-203a,rocky,normal,high,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,35,27,35,27,21
-TD-203b,Sheol,rocky,normal,normal,low,4643,-35,0,387,1,0,1,0,0,1,0,0,0,0,0,ON_STRIKE,,7,35,27,35,27,21
+TD-203b,Sheol,rocky,normal,normal,low,4807,-36,0,388,1,0,1,0,0,1,0,0,0,0,0,ACTIVE,WORKFORCE_PIONEERS,8,35,27,35,27,21
 TD-203c,TD-203c,rocky,normal,normal,high,2,0,0,2,0,0,1,0,0,0,0,0,0,0,0,NONE,,0,35,27,35,27,21
 TD-203d,TD-203d,rocky,normal,low,normal,650,52,902,163,8,0,1,0,0,0,0,0,0,0,0,NONE,,2,35,27,35,27,21
 TD-203e,TD-203e,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,35,27,35,27,21
@@ -136,7 +136,7 @@ TD-203f,TD-203f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,
 TD-203g,TD-203g,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,35,27,35,27,21
 TD-203h,TD-203h,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,35,27,35,27,21
 TD-228a,TD-228a,rocky,normal,high,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,27,20,26,24,19
-TD-228b,Rhazes,rocky,normal,normal,normal,2103,25,52,1692,19,0,80,-2,0,1,0,0,1,0,0,ON_STRIKE,,8,27,20,26,24,19
+TD-228b,Rhazes,rocky,normal,normal,normal,2122,19,27,1711,19,0,78,-2,0,1,0,0,1,0,0,ON_STRIKE,,8,27,20,26,24,19
 TD-228c,TD-228c,rocky,normal,normal,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,27,20,26,24,19
 TD-228d,TD-228d,rocky,normal,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,27,20,26,24,19
 TD-228e,TD-228e,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,27,20,26,24,19
