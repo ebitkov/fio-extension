@@ -55,7 +55,7 @@ PB-994f,PB-994f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,
 PB-994g,PB-994g,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,27,20,26,24,19
 PB-994h,PB-994h,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,27,20,26,24,19
 PG-027a,PG-027a,rocky,normal,normal,normal,1124,0,0,2,0,0,1,0,0,0,0,0,0,0,0,NONE,,1,27,20,26,24,18
-PG-027b,PG-027b,rocky,normal,low,high,250,-63,0,2,0,0,1,0,0,0,0,0,0,0,0,ACTIVE,,0,27,20,26,24,18
+PG-027b,PG-027b,rocky,normal,low,high,82,-20,0,2,0,0,1,0,0,0,0,0,0,0,0,ACTIVE,,0,27,20,26,24,18
 PG-027c,PG-027c,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,27,20,26,24,18
 PG-027d,PG-027d,rocky,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,27,20,26,24,18
 PG-027e,PG-027e,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,27,20,26,24,18
@@ -75,7 +75,7 @@ PG-710e,PG-710e,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,
 PG-710f,PG-710f,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,29,22,28,26,20
 PG-710g,PG-710g,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,29,22,28,26,20
 PG-899a,PG-899a,rocky,normal,high,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,34,26,34,26,20
-PG-899b,Saladin,rocky,normal,normal,normal,16287,-434,0,1390,-232,0,78,-4,0,1,0,0,0,0,0,ACTIVE,,16,34,26,34,26,20
+PG-899b,Saladin,rocky,normal,normal,normal,16287,-434,0,1390,-232,0,78,-4,0,1,0,0,0,0,0,ACTIVE,AGRICULTURE,16,34,26,34,26,20
 PG-899c,PG-899c,rocky,normal,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,34,26,34,26,20
 PG-899d,PG-899d,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,34,26,34,26,20
 PG-899e,PG-899e,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,34,26,34,26,20
@@ -128,15 +128,15 @@ TD-152e,TD-152e,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,
 TD-152f,TD-152f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,28,21,27,25,19
 TD-152g,TD-152g,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,28,21,27,25,19
 TD-203a,TD-203a,rocky,normal,high,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,35,27,35,27,21
-TD-203b,Sheol,rocky,normal,normal,low,4771,-36,0,389,1,0,1,0,0,1,0,0,0,0,0,ACTIVE,,8,35,27,35,27,21
+TD-203b,Sheol,rocky,normal,normal,low,4731,-40,0,401,12,0,1,0,0,1,0,0,0,0,0,ACTIVE,,8,35,27,35,27,21
 TD-203c,TD-203c,rocky,normal,normal,high,2,0,0,2,0,0,1,0,0,0,0,0,0,0,0,NONE,,0,35,27,35,27,21
-TD-203d,TD-203d,rocky,normal,low,normal,933,176,743,183,11,0,1,0,0,0,0,0,0,0,0,NONE,,2,35,27,35,27,21
+TD-203d,TD-203d,rocky,normal,low,normal,1180,247,567,198,15,0,1,0,0,0,0,0,0,0,0,NONE,,2,35,27,35,27,21
 TD-203e,TD-203e,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,35,27,35,27,21
 TD-203f,TD-203f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,35,27,35,27,21
 TD-203g,TD-203g,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,35,27,35,27,21
 TD-203h,TD-203h,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,35,27,35,27,21
 TD-228a,TD-228a,rocky,normal,high,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,27,20,26,24,19
-TD-228b,Rhazes,rocky,normal,normal,normal,2122,19,27,1711,19,0,78,-2,0,1,0,0,1,0,0,ON_STRIKE,,8,27,20,26,24,19
+TD-228b,Rhazes,rocky,normal,normal,normal,2117,-9,4,1739,10,0,77,0,0,1,0,0,1,0,0,ON_STRIKE,,8,27,20,26,24,19
 TD-228c,TD-228c,rocky,normal,normal,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,27,20,26,24,19
 TD-228d,TD-228d,rocky,normal,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,27,20,26,24,19
 TD-228e,TD-228e,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,27,20,26,24,19
@@ -145,7 +145,7 @@ TD-260b,TD-260b,rocky,normal,normal,normal,662,0,0,2,0,0,1,0,0,1,0,0,0,0,0,ON_ST
 TD-260c,TD-260c,rocky,normal,normal,normal,2,0,0,2,0,0,1,0,0,1,0,0,0,0,0,ON_STRIKE,,0,30,23,29,29,24
 TD-260d,TD-260d,rocky,normal,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,30,23,29,29,24
 TD-260e,TD-260e,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,30,23,29,29,24
-TD-260f,Tibet,gaseous,normal,low,normal,693,0,0,2,0,0,1,0,0,0,0,0,0,0,0,NONE,,2,30,23,29,29,24
+TD-260f,Tibet,gaseous,normal,low,normal,744,28,0,2,0,0,1,0,0,0,0,0,0,0,0,NONE,,2,30,23,29,29,24
 TD-260g,TD-260g,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,30,23,29,29,24
 TD-260h,TD-260h,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,30,23,29,29,24
 TD-260i,TD-260i,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,30,23,29,29,24
