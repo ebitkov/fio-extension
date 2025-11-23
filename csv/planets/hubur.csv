@@ -1,6 +1,6 @@
 naturalId,name,surface,gravity,temperature,pressure,pioneers,pioneerDifference,openPioneerJobs,settlers,settlerDifference,openSettlerJobs,technicians,technicianDifference,openTechnicianJobs,engineers,engineerDifference,openEngineerJobs,scientists,scientistDifference,openScientistJobs,cogcStatus,cogcProgram,playerSites,jumpsToAI1,jumpsToCI1,jumpsToCI2,jumpsToIC1,jumpsToNC1
 OT-113a,OT-113a,rocky,normal,high,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,33,26,32,26,21
-OT-113b,OT-113b,rocky,normal,normal,high,126,-32,0,2,0,0,1,0,0,1,0,0,0,0,0,NONE,,0,33,26,32,26,21
+OT-113b,OT-113b,rocky,normal,normal,high,499,-27,0,8,6,378,1,0,0,1,0,0,0,0,0,NONE,,2,33,26,32,26,21
 OT-113c,OT-113c,rocky,normal,normal,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,33,26,32,26,21
 OT-113d,OT-113d,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,33,26,32,26,21
 OT-113e,OT-113e,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,33,26,32,26,21
@@ -8,7 +8,7 @@ OT-113f,OT-113f,gaseous,normal,low,normal,2,0,0,1,0,0,1,0,0,0,0,0,0,0,0,NONE,,0,
 OT-113g,OT-113g,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,33,26,32,26,21
 OT-113h,OT-113h,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,33,26,32,26,21
 OT-113i,OT-113i,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,33,26,32,26,21
-OT-823a,OT-823a,rocky,normal,normal,normal,268,27,499,356,1,0,1,0,0,1,0,0,0,0,0,ON_STRIKE,,1,34,27,33,28,23
+OT-823a,OT-823a,rocky,normal,normal,normal,316,48,472,360,4,0,1,0,0,1,0,0,0,0,0,ON_STRIKE,,1,34,27,33,28,23
 OT-823b,OT-823b,rocky,normal,normal,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,34,27,33,28,23
 OT-823c,OT-823c,rocky,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,34,27,33,28,23
 OT-823d,OT-823d,rocky,normal,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,34,27,33,28,23
@@ -27,7 +27,7 @@ PB-296c,PB-296c,rocky,normal,high,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,2
 PB-296d,PB-296d,rocky,normal,high,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,25,18,24,22,16
 PB-296e,PB-296e,rocky,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,25,18,24,22,16
 PB-296f,PB-296f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,25,18,24,22,16
-PB-519a,Elysium,rocky,normal,normal,low,3600,-348,0,346,-3,0,314,103,579,2,1,0,0,0,0,ACTIVE,ELECTRONICS,2,26,19,25,23,18
+PB-519a,Elysium,rocky,normal,normal,low,3115,-485,0,309,-37,0,416,102,476,3,1,0,0,0,0,ACTIVE,ELECTRONICS,2,26,19,25,23,18
 PB-519b,PB-519b,rocky,normal,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,26,19,25,23,18
 PB-519c,PB-519c,rocky,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,26,19,25,23,18
 PB-519d,PB-519d,rocky,normal,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,26,19,25,23,18
@@ -55,7 +55,7 @@ PB-994f,PB-994f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,
 PB-994g,PB-994g,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,27,20,26,24,19
 PB-994h,PB-994h,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,27,20,26,24,19
 PG-027a,PG-027a,rocky,normal,normal,normal,2,-1,0,2,0,0,1,0,0,0,0,0,0,0,0,NONE,,0,27,20,26,24,18
-PG-027b,PG-027b,rocky,normal,low,high,246,0,0,728,87,0,1,0,0,0,0,0,0,0,0,NONE,,1,27,20,26,24,18
+PG-027b,PG-027b,rocky,normal,low,high,241,-5,0,819,91,0,1,0,0,0,0,0,0,0,0,NONE,,1,27,20,26,24,18
 PG-027c,PG-027c,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,27,20,26,24,18
 PG-027d,PG-027d,rocky,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,27,20,26,24,18
 PG-027e,PG-027e,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,27,20,26,24,18
@@ -75,7 +75,7 @@ PG-710e,PG-710e,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,
 PG-710f,PG-710f,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,29,22,28,26,20
 PG-710g,PG-710g,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,29,22,28,26,20
 PG-899a,PG-899a,rocky,normal,high,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,34,26,34,26,20
-PG-899b,Saladin,rocky,normal,normal,normal,13150,-87,0,376,53,0,1,0,0,1,0,0,0,0,0,ACTIVE,,17,34,26,34,26,20
+PG-899b,Saladin,rocky,normal,normal,normal,13664,265,671,723,205,0,84,-18,0,1,0,0,0,0,0,ACTIVE,AGRICULTURE,18,34,26,34,26,20
 PG-899c,PG-899c,rocky,normal,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,34,26,34,26,20
 PG-899d,PG-899d,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,34,26,34,26,20
 PG-899e,PG-899e,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,34,26,34,26,20
@@ -128,15 +128,15 @@ TD-152e,TD-152e,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,
 TD-152f,TD-152f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,28,21,27,25,19
 TD-152g,TD-152g,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,28,21,27,25,19
 TD-203a,TD-203a,rocky,normal,high,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,35,27,35,27,21
-TD-203b,Sheol,rocky,normal,normal,low,4781,-9,0,284,-55,0,1,0,0,1,0,0,0,0,0,ACTIVE,,5,35,27,35,27,21
-TD-203c,TD-203c,rocky,normal,normal,high,2,0,0,2,0,0,1,0,0,0,0,0,0,0,0,NONE,,1,35,27,35,27,21
+TD-203b,Sheol,rocky,normal,normal,low,4762,-19,0,259,-25,0,1,0,0,1,0,0,0,0,0,ACTIVE,,5,35,27,35,27,21
+TD-203c,TD-203c,rocky,normal,normal,high,192,-10,48,4,2,723,1,0,0,0,0,0,0,0,0,ACTIVE,CHEMISTRY,1,35,27,35,27,21
 TD-203d,TD-203d,rocky,normal,low,normal,5844,-87,0,526,87,0,1,0,0,0,0,0,0,0,0,ACTIVE,,6,35,27,35,27,21
 TD-203e,TD-203e,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,35,27,35,27,21
 TD-203f,TD-203f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,35,27,35,27,21
 TD-203g,TD-203g,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,35,27,35,27,21
 TD-203h,TD-203h,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,35,27,35,27,21
 TD-228a,TD-228a,rocky,normal,high,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,27,20,26,24,19
-TD-228b,Rhazes,rocky,normal,normal,normal,1445,-80,0,379,-85,0,63,1,8,1,0,0,1,0,0,ACTIVE,RESOURCE_EXTRACTION,3,27,20,26,24,19
+TD-228b,Rhazes,rocky,normal,normal,normal,1415,-30,0,332,-47,0,64,1,7,1,0,0,1,0,0,ACTIVE,RESOURCE_EXTRACTION,3,27,20,26,24,19
 TD-228c,TD-228c,rocky,normal,normal,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,27,20,26,24,19
 TD-228d,TD-228d,rocky,normal,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,27,20,26,24,19
 TD-228e,TD-228e,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,27,20,26,24,19
@@ -145,7 +145,7 @@ TD-260b,TD-260b,rocky,normal,normal,normal,985,-173,0,98,-12,0,1,0,0,1,0,0,0,0,0
 TD-260c,TD-260c,rocky,normal,normal,normal,2,0,0,2,0,0,1,0,0,1,0,0,0,0,0,ON_STRIKE,,0,30,23,29,29,24
 TD-260d,TD-260d,rocky,normal,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,30,23,29,29,24
 TD-260e,TD-260e,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,30,23,29,29,24
-TD-260f,Tibet,gaseous,normal,low,normal,797,-18,0,40,21,81,1,0,0,0,0,0,0,0,0,NONE,,1,30,23,29,29,24
+TD-260f,Tibet,gaseous,normal,low,normal,797,-18,0,40,21,81,1,0,0,0,0,0,0,0,0,NONE,,2,30,23,29,29,24
 TD-260g,TD-260g,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,30,23,29,29,24
 TD-260h,TD-260h,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,30,23,29,29,24
 TD-260i,TD-260i,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,30,23,29,29,24
@@ -177,7 +177,7 @@ WC-299g,WC-299g,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,33
 WC-299h,WC-299h,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,33,24,30,27,21
 WC-299i,WC-299i,rocky,normal,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,33,24,30,27,21
 WC-702a,WC-702a,rocky,normal,high,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,32,25,31,25,20
-WC-702b,Mimar,rocky,normal,normal,normal,712,-178,0,2,0,0,1,0,0,1,0,0,0,0,0,ON_STRIKE,,1,32,25,31,25,20
+WC-702b,Mimar,rocky,normal,normal,normal,570,-142,0,2,0,0,1,0,0,1,0,0,0,0,0,ON_STRIKE,,1,32,25,31,25,20
 WC-702c,WC-702c,rocky,normal,normal,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,32,25,31,25,20
 WC-702d,WC-702d,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,32,25,31,25,20
 WC-702e,WC-702e,rocky,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,32,25,31,25,20
@@ -185,14 +185,14 @@ WC-702f,WC-702f,gaseous,normal,low,normal,473,0,0,2,0,0,1,0,0,0,0,0,0,0,0,NONE,,
 WC-702g,WC-702g,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,32,25,31,25,20
 WC-702h,WC-702h,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,32,25,31,25,20
 WC-702i,WC-702i,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,32,25,31,25,20
-WC-702j,WC-702j,gaseous,normal,low,normal,1103,0,0,15,-4,0,1,0,0,0,0,0,0,0,0,ACTIVE,RESOURCE_EXTRACTION,1,32,25,31,25,20
+WC-702j,WC-702j,gaseous,normal,low,normal,1103,0,0,12,-3,0,1,0,0,0,0,0,0,0,0,ACTIVE,RESOURCE_EXTRACTION,1,32,25,31,25,20
 WC-788a,WC-788a,rocky,normal,high,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,30,23,29,28,22
 WC-788b,WC-788b,rocky,normal,normal,high,596,-110,0,138,-20,0,1,0,0,0,0,0,0,0,0,ON_STRIKE,,1,30,23,29,28,22
 WC-788c,WC-788c,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,30,23,29,28,22
 WC-788d,WC-788d,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,30,23,29,28,22
 WC-788e,WC-788e,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,30,23,29,28,22
 WC-803a,WC-803a,rocky,normal,high,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,33,24,30,27,21
-WC-803b,WC-803b,rocky,normal,normal,high,170,-42,0,2,0,0,1,0,0,0,0,0,0,0,0,NONE,,0,33,24,30,27,21
+WC-803b,WC-803b,rocky,normal,normal,high,136,-34,0,2,0,0,1,0,0,0,0,0,0,0,0,NONE,,0,33,24,30,27,21
 WC-803c,WC-803c,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,33,24,30,27,21
 WC-803d,WC-803d,rocky,normal,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,33,24,30,27,21
 WC-803e,WC-803e,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,33,24,30,27,21
