@@ -23,7 +23,7 @@ AM-528c,AM-528c,rocky,normal,high,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,16,
 AM-528d,AM-528d,rocky,normal,high,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,16,11,3,20,15
 AM-528e,AM-528e,rocky,normal,high,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,16,11,3,20,15
 AM-528f,AM-528f,gaseous,normal,normal,normal,498,0,0,2,0,0,1,0,0,0,0,0,0,0,0,NONE,,2,16,11,3,20,15
-AM-528g,AM-528g,gaseous,normal,low,normal,3734,0,0,2,0,0,1,0,0,0,0,0,0,0,0,ACTIVE,RESOURCE_EXTRACTION,5,16,11,3,20,15
+AM-528g,AM-528g,gaseous,normal,low,normal,4219,285,86,2,0,0,1,0,0,0,0,0,0,0,0,ACTIVE,RESOURCE_EXTRACTION,5,16,11,3,20,15
 AM-528h,AM-528h,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,16,11,3,20,15
 AM-644a,AM-644a,rocky,normal,high,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,15,10,2,19,14
 AM-644b,AM-644b,rocky,normal,normal,high,2,0,0,2,0,0,1,0,0,0,0,0,0,0,0,ON_STRIKE,,0,15,10,2,19,14
@@ -40,10 +40,10 @@ AM-695f,AM-695f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,
 AM-695g,AM-695g,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,16,11,3,20,15
 AM-695h,AM-695h,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,16,11,3,20,15
 AM-783a,"Nexus Exos",rocky,low,high,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,15,10,0,19,14
-AM-783b,Gallus,rocky,normal,normal,low,2543,18,0,2763,12,0,794,24,0,245,-9,0,1,0,0,NONE,,7,15,10,0,19,14
-AM-783c,Ementior,rocky,normal,normal,normal,24705,-172,0,2546,-105,0,383,-32,0,21,-3,0,1,0,0,NONE,,34,15,10,0,19,14
-AM-783d,AM-783d,rocky,normal,low,low,1794,-9,77,614,-1,0,140,3,33,3,-1,26,0,0,0,ACTIVE,RESOURCE_EXTRACTION,4,15,10,0,19,14
-AM-783e,AM-783e,rocky,normal,low,high,79,-19,0,127,-38,0,671,107,0,3,-1,0,0,0,0,ACTIVE,CHEMISTRY,1,15,10,0,19,14
+AM-783b,Gallus,rocky,normal,normal,low,2558,15,0,2776,13,0,815,21,0,246,1,0,1,0,0,ACTIVE,CONSTRUCTION,7,15,10,0,19,14
+AM-783c,Ementior,rocky,normal,normal,normal,24537,-168,0,2442,-104,0,352,-31,0,18,-3,0,1,0,0,ACTIVE,WORKFORCE_PIONEERS,34,15,10,0,19,14
+AM-783d,AM-783d,rocky,normal,low,low,1823,29,86,616,2,0,145,5,30,4,1,27,0,0,0,ACTIVE,RESOURCE_EXTRACTION,4,15,10,0,19,14
+AM-783e,AM-783e,rocky,normal,low,high,63,-16,0,96,-31,0,801,130,0,2,-1,0,0,0,0,NONE,,1,15,10,0,19,14
 AM-783f,AM-783f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,15,10,0,19,14
 AM-783g,AM-783g,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,15,10,0,19,14
 AM-884a,AM-884a,rocky,normal,low,low,2,0,0,2,0,0,1,0,0,0,0,0,0,0,0,ON_STRIKE,,0,14,9,1,18,13
@@ -59,7 +59,7 @@ AM-978f,AM-978f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,
 BN-299a,BN-299a,rocky,normal,high,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 BN-299b,BN-299b,rocky,normal,high,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 BN-299c,BN-299c,rocky,normal,high,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
-BN-299d,BN-299d,rocky,normal,normal,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
+BN-299d,BN-299d,rocky,normal,normal,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PLANNED,,0,-1,-1,-1,-1,-1
 BN-299e,BN-299e,rocky,normal,normal,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 BN-299f,BN-299f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 BN-299g,BN-299g,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
@@ -107,8 +107,8 @@ BN-901c,BN-901c,rocky,normal,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1
 BN-901d,BN-901d,rocky,normal,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 BN-901e,BN-901e,rocky,normal,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 BN-901f,BN-901f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
-BN-908a,BN-908a,rocky,normal,high,high,2315,-65,0,375,-26,0,1,0,0,0,0,0,0,0,0,ACTIVE,,1,-1,-1,-1,-1,-1
-BN-908b,"Rhenos Pater",rocky,normal,normal,high,21540,-853,0,5,-2,0,1,0,0,0,0,0,0,0,0,ACTIVE,METALLURGY,18,-1,-1,-1,-1,-1
+BN-908a,BN-908a,rocky,normal,high,high,2278,-37,0,371,-4,5,1,0,0,0,0,0,0,0,0,ACTIVE,,1,-1,-1,-1,-1,-1
+BN-908b,"Rhenos Pater",rocky,normal,normal,high,19897,-1243,0,4,-1,0,1,0,0,0,0,0,0,0,0,ACTIVE,,17,-1,-1,-1,-1,-1
 BN-908c,BN-908c,rocky,normal,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 BN-908d,BN-908d,rocky,normal,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 BN-908e,BN-908e,gaseous,normal,low,normal,1124,0,0,2,0,0,1,0,0,0,0,0,0,0,0,ON_STRIKE,,1,-1,-1,-1,-1,-1
@@ -133,7 +133,7 @@ EE-223g,EE-223g,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1
 EE-223h,EE-223h,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 EE-223i,EE-223i,rocky,low,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 EE-233a,EE-233a,rocky,normal,high,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
-EE-233b,EE-233b,rocky,normal,normal,normal,4398,-15,0,5,-2,0,1,0,0,0,0,0,0,0,0,ACTIVE,RESOURCE_EXTRACTION,5,-1,-1,-1,-1,-1
+EE-233b,EE-233b,rocky,normal,normal,normal,4398,0,0,4,-1,0,1,0,0,0,0,0,0,0,0,ACTIVE,RESOURCE_EXTRACTION,5,-1,-1,-1,-1,-1
 EE-233c,EE-233c,rocky,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 EE-233d,EE-233d,rocky,normal,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 EE-233e,EE-233e,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
@@ -144,7 +144,7 @@ EE-860b,EE-860b,rocky,normal,normal,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0
 EE-860c,EE-860c,rocky,normal,normal,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 EE-860d,EE-860d,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 EE-860e,EE-860e,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
-EE-860f,EE-860f,gaseous,normal,low,normal,189,-3,0,11,3,0,0,0,0,0,0,0,0,0,0,NONE,,1,-1,-1,-1,-1,-1
+EE-860f,EE-860f,gaseous,normal,low,normal,187,-2,0,13,2,0,0,0,0,0,0,0,0,0,0,NONE,,1,-1,-1,-1,-1,-1
 EE-981a,EE-981a,rocky,normal,high,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 EE-981b,EE-981b,rocky,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 EE-981c,EE-981c,rocky,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
@@ -152,18 +152,18 @@ EE-981d,EE-981d,rocky,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1
 EE-981e,EE-981e,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 EE-981f,EE-981f,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 EE-981g,EE-981g,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
-GH-082a,GH-082a,rocky,normal,high,high,1039,-142,0,37,-9,0,2,0,0,0,0,0,0,0,0,NONE,,1,-1,-1,-1,-1,-1
+GH-082a,GH-082a,rocky,normal,high,high,952,-87,0,29,-8,0,2,0,0,0,0,0,0,0,0,NONE,,1,-1,-1,-1,-1,-1
 GH-082b,GH-082b,rocky,normal,high,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
-GH-082c,GH-082c,rocky,normal,normal,low,961,-7,0,14,-4,0,1,0,0,0,0,0,0,0,0,NONE,,1,-1,-1,-1,-1,-1
+GH-082c,GH-082c,rocky,normal,normal,low,961,0,0,11,-3,0,1,0,0,0,0,0,0,0,0,NONE,,1,-1,-1,-1,-1,-1
 GH-082d,GH-082d,rocky,normal,low,low,1123,-114,0,269,-31,0,10,0,0,0,0,0,0,0,0,NONE,,1,-1,-1,-1,-1,-1
 GH-082e,GH-082e,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 GH-082f,GH-082f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 GH-082g,GH-082g,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 GH-082h,GH-082h,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 GH-209a,GH-209a,rocky,normal,high,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
-GH-209b,GH-209b,rocky,normal,high,normal,552,21,0,848,50,0,23,5,0,0,0,0,0,0,0,NONE,,1,-1,-1,-1,-1,-1
+GH-209b,GH-209b,rocky,normal,high,normal,544,-8,0,853,5,0,23,0,0,0,0,0,0,0,0,NONE,,1,-1,-1,-1,-1,-1
 GH-209c,GH-209c,rocky,normal,normal,low,950,0,0,5,-2,0,1,0,0,0,0,0,0,0,0,ACTIVE,,1,-1,-1,-1,-1,-1
-GH-209d,GH-209d,rocky,normal,low,low,898,0,0,4,-1,0,1,0,0,0,0,0,0,0,0,ACTIVE,,1,-1,-1,-1,-1,-1
+GH-209d,GH-209d,rocky,normal,low,low,898,0,0,3,-1,0,1,0,0,0,0,0,0,0,0,ACTIVE,,1,-1,-1,-1,-1,-1
 GH-209e,GH-209e,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 GH-209f,GH-209f,gaseous,normal,low,normal,1469,714,245,18,13,0,0,0,0,0,0,0,0,0,0,NONE,,1,-1,-1,-1,-1,-1
 GH-209g,GH-209g,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
@@ -177,7 +177,7 @@ GH-384d,GH-384d,rocky,normal,low,low,755,555,660,5,5,0,0,0,0,0,0,0,0,0,0,NONE,,1
 GH-384e,GH-384e,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 GH-459a,GH-459a,rocky,normal,normal,normal,1026,0,0,9,-2,0,1,0,0,0,0,0,0,0,0,NONE,,1,-1,-1,-1,-1,-1
 GH-459b,GH-459b,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
-GH-459c,GH-459c,rocky,normal,normal,normal,1096,0,0,7,-2,0,1,0,0,0,0,0,0,0,0,ACTIVE,RESOURCE_EXTRACTION,1,-1,-1,-1,-1,-1
+GH-459c,GH-459c,rocky,normal,normal,normal,1096,0,0,7,-2,0,1,0,0,0,0,0,0,0,0,ACTIVE,,1,-1,-1,-1,-1,-1
 GH-459d,GH-459d,gaseous,normal,low,normal,781,-10,9,418,10,0,1,0,0,0,0,0,0,0,0,NONE,,1,-1,-1,-1,-1,-1
 GH-459e,GH-459e,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 GH-527a,GH-527a,rocky,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
@@ -187,10 +187,10 @@ GH-527d,GH-527d,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-
 GH-527e,GH-527e,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 GH-527f,GH-527f,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 GH-780a,GH-780a,rocky,normal,high,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
-GH-780b,GH-780b,rocky,normal,high,high,118,-25,0,454,-64,0,15,-2,0,0,0,0,0,0,0,NONE,,1,-1,-1,-1,-1,-1
-GH-780c,GH-780c,rocky,normal,normal,low,1250,-107,0,38,-11,0,2,0,0,0,0,0,0,0,0,NONE,,1,-1,-1,-1,-1,-1
+GH-780b,GH-780b,rocky,normal,high,high,95,-23,0,398,-56,0,11,-4,0,0,0,0,0,0,0,NONE,,1,-1,-1,-1,-1,-1
+GH-780c,GH-780c,rocky,normal,normal,low,1215,-35,0,30,-8,0,1,-1,0,0,0,0,0,0,0,NONE,,1,-1,-1,-1,-1,-1
 GH-780d,GH-780d,rocky,normal,low,normal,417,91,0,553,83,0,10,7,0,0,0,0,0,0,0,NONE,,1,-1,-1,-1,-1,-1
-GH-780e,GH-780e,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,1,-1,-1,-1,-1,-1
+GH-780e,GH-780e,gaseous,normal,low,normal,195,-5,0,205,205,200,0,0,400,0,0,0,0,0,0,NONE,,1,-1,-1,-1,-1,-1
 GH-780f,GH-780f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 GH-780g,GH-780g,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 GH-827a,GH-827a,rocky,normal,high,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
@@ -200,7 +200,7 @@ GH-827d,GH-827d,rocky,normal,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1
 GH-827e,GH-827e,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 GH-827f,GH-827f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 HM-049a,HM-049a,rocky,normal,high,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,14,9,3,18,13
-HM-049b,Poseidon,rocky,normal,normal,normal,17388,383,0,2152,246,0,124,-2,0,1,0,0,0,0,0,ACTIVE,AGRICULTURE,20,14,9,3,18,13
+HM-049b,Poseidon,rocky,normal,normal,normal,16785,-180,0,2452,88,0,117,-3,0,1,0,0,0,0,0,ACTIVE,AGRICULTURE,20,14,9,3,18,13
 HM-049c,HM-049c,rocky,normal,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,14,9,3,18,13
 HM-049d,HM-049d,rocky,normal,low,high,2,0,0,2,0,0,0,0,0,0,0,0,0,0,0,ON_STRIKE,,0,14,9,3,18,13
 HM-049e,HM-049e,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,14,9,3,18,13
@@ -210,12 +210,12 @@ HM-049h,HM-049h,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,14
 HM-223a,HM-223a,rocky,normal,high,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,12,7,3,16,11
 HM-223b,HM-223b,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,1,12,7,3,16,11
 HM-301a,HM-301a,rocky,normal,high,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,11,6,4,15,10
-HM-301b,Cadia,rocky,normal,normal,low,3229,-2,0,1172,187,0,971,1,0,367,13,0,1,0,0,NONE,,5,11,6,4,15,10
+HM-301b,Cadia,rocky,normal,normal,low,3218,-11,0,1250,78,0,975,4,0,380,13,0,1,0,0,ACTIVE,METALLURGY,5,11,6,4,15,10
 HM-301c,HM-301c,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,11,6,4,15,10
-HM-301d,HM-301d,rocky,normal,low,high,635,48,0,316,58,2,12,5,13,0,0,0,0,0,0,NONE,,2,11,6,4,15,10
+HM-301d,HM-301d,rocky,normal,low,high,691,56,0,363,47,0,19,7,8,0,0,0,0,0,0,NONE,,2,11,6,4,15,10
 HM-301e,HM-301e,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,11,6,4,15,10
 HM-301f,HM-301f,rocky,normal,low,high,0,0,0,2,0,0,1,0,0,0,0,0,0,0,0,NONE,,0,11,6,4,15,10
-HM-301g,HM-301g,gaseous,high,low,normal,5427,-56,0,540,30,0,602,6,0,1,0,0,0,0,0,ACTIVE,RESOURCE_EXTRACTION,5,11,6,4,15,10
+HM-301g,HM-301g,gaseous,high,low,normal,5373,-54,0,563,23,0,608,6,0,1,0,0,0,0,0,ACTIVE,RESOURCE_EXTRACTION,5,11,6,4,15,10
 HM-365a,HM-365a,rocky,normal,high,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,13,8,3,17,12
 HM-365b,HM-365b,rocky,normal,high,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,13,8,3,17,12
 HM-365c,HM-365c,rocky,normal,low,normal,2,0,0,53,1,0,474,2,0,260,3,0,1,0,0,NONE,,1,13,8,3,17,12
@@ -224,8 +224,8 @@ HM-365e,HM-365e,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,13
 HM-365f,HM-365f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,13,8,3,17,12
 HM-517a,HM-517a,rocky,normal,high,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,13,8,2,17,12
 HM-517b,HM-517b,rocky,normal,high,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,13,8,2,17,12
-HM-517c,HM-517c,rocky,normal,normal,high,0,0,0,2,0,0,1,0,0,1,0,0,0,0,0,ON_STRIKE,,0,13,8,2,17,12
-HM-517d,HM-517d,rocky,normal,normal,high,202,-2,0,14,1,0,0,0,0,0,0,0,0,0,0,NONE,,1,13,8,2,17,12
+HM-517c,HM-517c,rocky,normal,normal,high,0,0,0,2,0,0,1,0,0,1,0,0,0,0,0,ON_STRIKE,,1,13,8,2,17,12
+HM-517d,HM-517d,rocky,normal,normal,high,193,-9,0,13,-1,0,0,0,0,0,0,0,0,0,0,NONE,,1,13,8,2,17,12
 HM-517e,HM-517e,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,13,8,2,17,12
 HM-517f,HM-517f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,13,8,2,17,12
 HM-517g,HM-517g,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,13,8,2,17,12
@@ -234,12 +234,12 @@ HM-517i,HM-517i,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,
 HM-517j,HM-517j,rocky,normal,low,normal,2886,-30,0,639,6,0,1,0,0,0,0,0,0,0,0,NONE,,2,13,8,2,17,12
 HM-910a,HM-910a,rocky,normal,high,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,15,10,4,19,14
 HM-910b,HM-910b,rocky,normal,high,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,15,10,4,19,14
-HM-910c,Cantium,rocky,normal,normal,normal,4459,332,0,415,34,0,1,0,0,0,0,0,0,0,0,ACTIVE,AGRICULTURE,6,15,10,4,19,14
+HM-910c,Cantium,rocky,normal,normal,normal,4789,330,0,455,40,0,1,0,0,0,0,0,0,0,0,ACTIVE,AGRICULTURE,6,15,10,4,19,14
 HM-910d,HM-910d,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,1,15,10,4,19,14
 HM-910e,HM-910e,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,15,10,4,19,14
 HM-910f,HM-910f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,15,10,4,19,14
 HY-239a,HY-239a,rocky,normal,normal,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
-HY-239b,HY-239b,rocky,normal,low,normal,1637,0,0,21,-6,0,1,0,0,0,0,0,0,0,0,NONE,,2,-1,-1,-1,-1,-1
+HY-239b,HY-239b,rocky,normal,low,normal,1637,0,0,16,-5,0,1,0,0,0,0,0,0,0,0,NONE,,2,-1,-1,-1,-1,-1
 HY-239c,HY-239c,rocky,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 HY-239d,HY-239d,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 HY-239e,HY-239e,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
@@ -377,9 +377,9 @@ OF-098f,OF-098f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,
 OF-098g,OF-098g,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,17,12,4,21,16
 OF-098h,OF-098h,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,17,12,4,21,16
 OF-185a,OF-185a,rocky,normal,low,low,2,0,0,2,0,0,1,0,0,0,0,0,0,0,0,ON_STRIKE,,0,16,11,1,20,15
-OF-185b,OF-185b,rocky,normal,low,low,2507,-48,0,637,-39,0,1,0,0,1,0,0,0,0,0,ACTIVE,METALLURGY,4,16,11,1,20,15
-OF-185c,OF-185c,rocky,normal,low,normal,1949,640,0,2,0,0,0,0,0,0,0,0,0,0,0,NONE,,1,16,11,1,20,15
-OF-185d,OF-185d,rocky,normal,low,normal,59,-2,0,432,8,0,44,1,0,1,0,0,1,0,0,ACTIVE,ELECTRONICS,2,16,11,1,20,15
+OF-185b,OF-185b,rocky,normal,low,low,2385,-122,0,579,-58,0,1,0,0,1,0,0,0,0,0,ACTIVE,METALLURGY,4,16,11,1,20,15
+OF-185c,OF-185c,rocky,normal,low,normal,1933,-16,0,2,0,0,0,0,0,0,0,0,0,0,0,NONE,,1,16,11,1,20,15
+OF-185d,OF-185d,rocky,normal,low,normal,46,-13,0,430,-2,0,42,-2,0,1,0,0,1,0,0,ACTIVE,ELECTRONICS,2,16,11,1,20,15
 OF-185e,OF-185e,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,16,11,1,20,15
 OF-185f,OF-185f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,16,11,1,20,15
 OF-185g,OF-185g,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,16,11,1,20,15
@@ -387,7 +387,7 @@ OF-185h,OF-185h,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,
 OF-259a,OF-259a,rocky,normal,high,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,15,10,2,19,14
 OF-259b,OF-259b,rocky,normal,high,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,15,10,2,19,14
 OF-259c,OF-259c,rocky,normal,high,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,15,10,2,19,14
-OF-259d,Jura,rocky,normal,low,high,5313,332,0,271,-2,0,98,0,0,1,0,0,0,0,0,NONE,,5,15,10,2,19,14
+OF-259d,Jura,rocky,normal,low,high,5313,332,0,271,-2,0,98,0,0,1,0,0,0,0,0,ACTIVE,RESOURCE_EXTRACTION,5,15,10,2,19,14
 OF-259e,OF-259e,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,15,10,2,19,14
 OF-259f,OF-259f,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,15,10,2,19,14
 OF-363a,OF-363a,rocky,normal,low,normal,1,0,0,254,-1,0,351,3,0,1,0,0,0,0,0,NONE,,1,15,10,4,19,14
@@ -413,7 +413,7 @@ OF-552f,OF-552f,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,14,9
 OF-552g,OF-552g,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,14,9,3,18,13
 OF-732a,OF-732a,rocky,normal,high,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,18,13,5,22,17
 OF-732b,OF-732b,rocky,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,18,13,5,22,17
-OF-732c,OF-732c,rocky,normal,low,low,407,-35,0,20,-2,0,1,1,0,0,0,0,0,0,0,NONE,,1,18,13,5,22,17
+OF-732c,OF-732c,rocky,normal,low,low,357,-50,0,17,-3,0,1,0,0,0,0,0,0,0,0,NONE,,1,18,13,5,22,17
 OF-732d,OF-732d,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,18,13,5,22,17
 OF-732e,OF-732e,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,18,13,5,22,17
 OF-732f,OF-732f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,18,13,5,22,17
@@ -426,7 +426,7 @@ OF-883e,OF-883e,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,
 OF-883f,OF-883f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,16,11,3,20,15
 OF-883g,OF-883g,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,16,11,3,20,15
 SL-542a,SL-542a,rocky,normal,high,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,18,13,5,22,17
-SL-542b,SL-542b,rocky,normal,high,normal,2383,0,0,15,-4,0,1,0,0,0,0,0,0,0,0,ACTIVE,RESOURCE_EXTRACTION,2,18,13,5,22,17
+SL-542b,SL-542b,rocky,normal,high,normal,2383,0,0,15,-4,0,1,0,0,0,0,0,0,0,0,ACTIVE,,2,18,13,5,22,17
 SL-542c,SL-542c,rocky,normal,high,high,2,0,0,2,0,0,1,0,0,0,0,0,0,0,0,ON_STRIKE,,0,18,13,5,22,17
 SL-542d,SL-542d,rocky,normal,normal,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,18,13,5,22,17
 SL-542e,SL-542e,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,18,13,5,22,17
@@ -492,7 +492,7 @@ UQ-010c,UQ-010c,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,18,1
 UQ-010d,UQ-010d,rocky,high,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,18,13,5,22,17
 UQ-194a,UQ-194a,rocky,normal,normal,normal,2,0,0,2,0,0,1,0,0,1,0,0,0,0,0,ON_STRIKE,,0,17,12,4,21,16
 UQ-194b,UQ-194b,rocky,normal,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,17,12,4,21,16
-UQ-194c,UQ-194c,rocky,normal,low,normal,1296,0,0,2,0,0,1,0,0,0,0,0,0,0,0,ACTIVE,,1,17,12,4,21,16
+UQ-194c,UQ-194c,rocky,normal,low,normal,1296,0,0,2,0,0,1,0,0,0,0,0,0,0,0,ON_STRIKE,,1,17,12,4,21,16
 UQ-328a,UQ-328a,rocky,normal,high,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,16,11,3,20,15
 UQ-328b,UQ-328b,rocky,normal,high,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,16,11,3,20,15
 UQ-328c,UQ-328c,rocky,normal,normal,low,2,0,0,2,0,0,1,0,0,0,0,0,0,0,0,ON_STRIKE,,0,16,11,3,20,15
@@ -573,7 +573,7 @@ WO-907b,WO-907b,rocky,normal,normal,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0
 WO-907c,WO-907c,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 WO-907d,WO-907d,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 WO-907e,WO-907e,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
-WX-031a,WX-031a,rocky,normal,low,high,6889,-241,0,3,-1,0,1,0,0,0,0,0,0,0,0,ACTIVE,RESOURCE_EXTRACTION,8,-1,-1,-1,-1,-1
+WX-031a,WX-031a,rocky,normal,low,high,6745,-144,0,2,-1,0,1,0,0,0,0,0,0,0,0,ACTIVE,,7,-1,-1,-1,-1,-1
 WX-031b,WX-031b,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 WX-031c,WX-031c,rocky,normal,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 WX-031d,WX-031d,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
@@ -654,7 +654,7 @@ YW-338e,YW-338e,gaseous,normal,low,normal,2,0,0,2,0,0,1,0,0,1,0,0,0,0,0,ON_STRIK
 YW-338f,YW-338f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,16,11,3,20,15
 YW-338g,YW-338g,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,16,11,3,20,15
 YW-523a,YW-523a,rocky,normal,normal,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,17,12,4,21,16
-YW-523b,YW-523b,rocky,normal,high,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,1,17,12,4,21,16
+YW-523b,YW-523b,rocky,normal,high,low,755,555,640,5,5,0,0,0,0,0,0,0,0,0,0,ACTIVE,RESOURCE_EXTRACTION,1,17,12,4,21,16
 YW-523c,YW-523c,rocky,low,low,low,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,17,12,4,21,16
 YW-523d,YW-523d,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,17,12,4,21,16
 YW-523e,YW-523e,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,17,12,4,21,16
