@@ -120,7 +120,7 @@ GH-384d,GH-384d,rocky,normal,low,low,1181,-164,0,46,-9,0,2,1,0,0,0,0,0,0,0,NONE,
 GH-384e,GH-384e,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 GH-459a,GH-459a,rocky,normal,normal,normal,1026,0,0,2,0,0,1,0,0,0,0,0,0,0,0,NONE,,1,-1,-1,-1,-1,-1
 GH-459b,GH-459b,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
-GH-459c,GH-459c,rocky,normal,normal,normal,1096,0,0,2,0,0,1,0,0,0,0,0,0,0,0,ACTIVE,RESOURCE_EXTRACTION,1,-1,-1,-1,-1,-1
+GH-459c,Tropica,rocky,normal,normal,normal,1096,0,0,2,0,0,1,0,0,0,0,0,0,0,0,ACTIVE,RESOURCE_EXTRACTION,1,-1,-1,-1,-1,-1
 GH-459d,GH-459d,gaseous,normal,low,normal,920,-90,0,402,-5,0,1,0,0,0,0,0,0,0,0,NONE,,1,-1,-1,-1,-1,-1
 GH-459e,GH-459e,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 GH-527a,GH-527a,rocky,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
@@ -638,7 +638,7 @@ ZV-194e,ZV-194e,rocky,low,low,low,396,0,4,657,1,0,1,0,0,0,0,0,0,0,0,ON_STRIKE,,2
 ZV-194f,ZV-194f,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PLANNED,,0,2,7,13,8,10
 ZV-194g,ZV-194g,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PLANNED,,0,2,7,13,8,10
 ZV-194h,ZV-194h,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,PLANNED,,0,2,7,13,8,10
-ZV-307a,Eos,rocky,normal,high,low,5088,-168,0,14223,404,0,32962,-143,0,5814,382,0,3718,73,0,ACTIVE,ELECTRONICS,96,0,9,15,8,12
+ZV-307a,Eos,rocky,normal,high,low,5088,-168,0,14223,404,0,32962,-143,0,5814,382,0,3718,73,0,ACTIVE,ELECTRONICS,95,0,9,15,8,12
 ZV-307b,Bober,rocky,normal,high,normal,13565,312,0,40818,-205,0,21896,233,0,5480,37,0,435,-31,0,ACTIVE,CHEMISTRY,83,0,9,15,8,12
 ZV-307c,Hephaestus,rocky,normal,normal,normal,110619,-3533,0,84058,936,0,27489,701,0,8485,426,0,1225,18,0,ACTIVE,MANUFACTURING,213,0,9,15,8,12
 ZV-307d,Phobos,rocky,normal,normal,normal,178314,-4635,0,44322,1284,0,45218,603,0,12450,208,0,7386,100,0,ACTIVE,ELECTRONICS,830,0,9,15,8,12

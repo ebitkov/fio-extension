@@ -177,7 +177,7 @@ GH-384d,GH-384d,rocky,normal,low,low,1181,-164,0,46,-9,0,2,1,0,0,0,0,0,0,0,NONE,
 GH-384e,GH-384e,gaseous,high,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 GH-459a,GH-459a,rocky,normal,normal,normal,1026,0,0,2,0,0,1,0,0,0,0,0,0,0,0,NONE,,1,-1,-1,-1,-1,-1
 GH-459b,GH-459b,rocky,normal,low,high,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
-GH-459c,GH-459c,rocky,normal,normal,normal,1096,0,0,2,0,0,1,0,0,0,0,0,0,0,0,ACTIVE,RESOURCE_EXTRACTION,1,-1,-1,-1,-1,-1
+GH-459c,Tropica,rocky,normal,normal,normal,1096,0,0,2,0,0,1,0,0,0,0,0,0,0,0,ACTIVE,RESOURCE_EXTRACTION,1,-1,-1,-1,-1,-1
 GH-459d,GH-459d,gaseous,normal,low,normal,920,-90,0,402,-5,0,1,0,0,0,0,0,0,0,0,NONE,,1,-1,-1,-1,-1,-1
 GH-459e,GH-459e,gaseous,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
 GH-527a,GH-527a,rocky,normal,low,normal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,NONE,,0,-1,-1,-1,-1,-1
