@@ -44,6 +44,22 @@ Daily aggregation of player bases on a planet. Planetary infrastructure (like Co
 excluded. Only planets with at least one player base are present in the list. If there is no file for a planet, then
 there is probably nobody living there.
 
+### Recipe COGM
+
+https://github.com/ebitkov/fio-extension/tree/main/csv/recipe/cogm
+
+Cost of Goods Manufactured (COGM) for every production recipe, calculated using current prices from a given CX.
+Includes input material costs, workforce consumption costs, and building depreciation (using the building's
+rocky-surface base construction cost, amortized over 180 days), assuming a COGC bonus and 5 active experts
+(160.5% efficiency). Also includes the current market price and resulting margin for the recipe's output.
+
+- [AI1](https://raw.githubusercontent.com/ebitkov/fio-extension/refs/heads/main/csv/recipe/cogm/AI1.csv)
+- [CI1](https://raw.githubusercontent.com/ebitkov/fio-extension/refs/heads/main/csv/recipe/cogm/CI1.csv)
+- [CI2](https://raw.githubusercontent.com/ebitkov/fio-extension/refs/heads/main/csv/recipe/cogm/CI2.csv)
+- [IC1](https://raw.githubusercontent.com/ebitkov/fio-extension/refs/heads/main/csv/recipe/cogm/IC1.csv)
+- [NC1](https://raw.githubusercontent.com/ebitkov/fio-extension/refs/heads/main/csv/recipe/cogm/NC1.csv)
+- [NC2](https://raw.githubusercontent.com/ebitkov/fio-extension/refs/heads/main/csv/recipe/cogm/NC2.csv)
+
 ### Player Count
 
 https://github.com/ebitkov/fio-extension/tree/main/csv/player/count
