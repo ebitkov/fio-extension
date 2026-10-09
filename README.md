@@ -44,6 +44,14 @@ Daily aggregation of player bases on a planet. Planetary infrastructure (like Co
 excluded. Only planets with at least one player base are present in the list. If there is no file for a planet, then
 there is probably nobody living there.
 
+#### Players
+
+https://github.com/ebitkov/fio-extension/tree/main/csv/planet-players
+
+Weekly updated list of the players currently having a base on a planet, including their company name and code. The
+date marks when the player was first seen on the planet. Only planets with at least one player base are present in the
+list.
+
 ### Recipe COGM
 
 https://github.com/ebitkov/fio-extension/tree/main/csv/recipe/cogm
