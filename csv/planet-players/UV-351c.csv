@@ -41,7 +41,6 @@ date,player,companyName,companyCode
 2026-10-09,Stonke,BlastingInc,BLST
 2026-10-09,Cygal,"Black Pine Group",BPG
 2026-10-09,theit8514,Brajah,BRJH
-2026-10-09,BishopHQ,Ballistic,BSI
 2026-10-09,MrHamburger,BlackSpade,BSPD
 2026-10-09,Wildgardener,Buildtech,BTEC
 2026-10-09,Bilfred,BillTek,BTEK
@@ -65,6 +64,7 @@ date,player,companyName,companyCode
 2026-10-09,,CorTech,COR3
 2026-10-09,dyskra,Caprica,CPA
 2026-10-09,ZexKillex,"Greenhouse Chukcle",CRAX
+2026-10-11,,"CORDARIUS Conglomerate",CRDO
 2026-10-09,RedNeckSnailSpit,"Core Resource Utility Depot",CRUD
 2026-10-09,Zhuzhuz,"Caelus Suidae Sus",CSS
 2026-10-09,CheeseTastyDuck,MayoGas,CTD8
@@ -133,6 +133,7 @@ date,player,companyName,companyCode
 2026-10-09,Trikium,Hartenhein-Fuel-Industries,HTFI
 2026-10-09,ByIvan,HUMANSTECH,HUT
 2026-10-09,Anpache,Hexaco,HXC
+2026-10-11,Airbus-1,中国海翔集团股份有限公司,HXJT
 2026-10-09,Kaltane,"Hyperdrive Dynamics",HYPD
 2026-10-09,Inforiel,Infocorp,ICU
 2026-10-09,Insigght,"Insigght Industries",IGGN
@@ -148,6 +149,7 @@ date,player,companyName,companyCode
 2026-10-09,CallifierLand,JiaJia,J001
 2026-10-09,JubinTse,JubinTse,JBX
 2026-10-09,JCham,"JCS Industries",JCS
+2026-10-11,,njhhn,JJJB
 2026-10-09,Papi2Caca,"Jelly Inc",JLY
 2026-10-09,johnrenegade124,JREnterprises,JRE
 2026-10-09,JetStarUK,"JetStar Industrial",JSI
@@ -158,6 +160,7 @@ date,player,companyName,companyCode
 2026-10-09,Campian,Kilokismegistus,KILO
 2026-10-09,Xk37,"Kodiak Industries",KI
 2026-10-09,Lodrar,Kekkocorp,KKEK
+2026-10-11,,"koen inc",KMI
 2026-10-09,The0_o,"Koa's Manufactory and Supply",KMS
 2026-10-09,Knarfaction,Knarfaction,KNFA
 2026-10-09,knottly,"Knott Interplanetary",KNIN
@@ -210,7 +213,6 @@ date,player,companyName,companyCode
 2026-10-09,SaiNox,NOOXC,NOOX
 2026-10-09,R7,"Nox Systems",NS
 2026-10-09,Endefres,nooksNcrannies,NXC
-2026-10-09,Omegaisba,OLIMEPIC,OC10
 2026-10-09,ocelotinspace,"Ocelot Corp",OCEL
 2026-10-09,JMeyer,"Orbit Combined Industries",OCI
 2026-10-09,itsRobbie,"Offworld Industries",OFF
@@ -243,6 +245,7 @@ date,player,companyName,companyCode
 2026-10-09,Absolutno,Quark,QRK
 2026-10-09,Rats,"Rats and Company",RATS
 2026-10-09,RC-1103,RC-land,RC11
+2026-10-11,LVZQ,资源开发管理局,RDA
 2026-10-09,Erendrake,Redwind,RED
 2026-10-09,Rescyy,Rescyy,RESC
 2026-10-09,Snaevarr,"Rose Capital",ROCA
@@ -285,6 +288,7 @@ date,player,companyName,companyCode
 2026-10-09,Potato_is_yum,strangemudkip,SRG
 2026-10-09,LucaTrulyworth,"Señor Ricky's Matcha Hut",SRMH
 2026-10-09,ndkid,"Synergy Solutions Inc",SSI
+2026-10-11,,"Loft Gamer",SSY
 2026-10-09,Sparepaper894,"Spare Trading Company",STCC
 2026-10-09,Kindly_Enclying_Trading,Stede,STED
 2026-10-09,Nicster,"Stonemere Inc",STMI

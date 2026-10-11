@@ -1,11 +1,11 @@
 date,player,companyName,companyCode
 2026-10-09,,"ZerOne Group Corporation",01G
-2026-10-09,,ben'sfarm,1QDZ
 2026-10-09,d_211ba,"two two RED purple",22RP
 2026-10-09,zillatron,"TwentySeven Bit Industries",27BI
 2026-10-09,,Yogins,27Y
 2026-10-09,Megarnos,Megacorp,28CM
 2026-10-09,,"Sol Enterprise",2C87
+2026-10-11,,Arterus_FOM,317A
 2026-10-09,,"Five Rings Victuallers",5RIV
 2026-10-09,Goldreaver,"Axiomatic Astra Industries",AAI
 2026-10-09,,玛尔斯天驱团,ABC2
@@ -19,16 +19,15 @@ date,player,companyName,companyCode
 2026-10-09,MONSTER4990,"AIH Spacecraft propellant",AIHS
 2026-10-09,Aikawa,"Aikawa Carbon",AKC
 2026-10-09,Alfalemon87,AlfaCARB,ALCA
+2026-10-11,,"Allan corp",ALL
 2026-10-09,Arrathir,"Advanced Metallurgy Corp",AMC
 2026-10-09,Rule1,ARMONIA,AMN
-2026-10-09,,Amperios,AMPE
 2026-10-09,,Amorc,AMRC
 2026-10-09,Turlorn,"Angren AgroBusiness",ANAB
 2026-10-09,dansu,"Antares Agriculture Division",ANAD
 2026-10-09,CAFFILY,"Antarctic New Century Council",ANCC
 2026-10-09,Airbus_Flyer,"The Andromeda Company",AND
 2026-10-09,AngerHawk165,"Hawk Processing",ANH
-2026-10-09,Xaviar,"Antarian Industry",ANI
 2026-10-09,Kuromiku,"APD Workforce Department",APD
 2026-10-09,,"Alpha Legion",APHL
 2026-10-09,Appletree23,"Apple Systems Co.",APLC
@@ -74,7 +73,6 @@ date,player,companyName,companyCode
 2026-10-09,Plsei,ROCKSTONE,BRAS
 2026-10-09,medicine_seller,Brucium,BRC
 2026-10-09,CorporateJester,BRUHH,BRUH
-2026-10-09,itseg0,"BioTerra Solutions",BTRS
 2026-10-09,rzgsxuvuw1,安东星集团,BVVD
 2026-10-09,,"BZZT Mining",BZZT
 2026-10-09,bwelxiunge,S-空间探索回波,C137
@@ -154,6 +152,7 @@ date,player,companyName,companyCode
 2026-10-09,_NoSkin,ExodyneBiotech,EXBI
 2026-10-09,MegaSaberEXE,"Vecetmogra Corp.",EXEV
 2026-10-09,Telinthon,"Excessive Speed LLC",EXSD
+2026-10-11,,aif01,F001
 2026-10-09,,TrustworthyFuel,F13
 2026-10-09,Bodwin,F5-Logistics,F5L
 2026-10-09,Lythan,"Faceless Company",FACE
@@ -179,7 +178,6 @@ date,player,companyName,companyCode
 2026-10-09,tgeldof,"Ginger Inc",GING
 2026-10-09,Gizmokid2005,"Gizmo Laboratories",GIZ
 2026-10-09,YawningBullfrog,"Gage-Kwon Industries",GKI
-2026-10-09,xxROLxx,"Globo Foods",GLFD
 2026-10-09,Gnarlicious,Gnarlicious,GNAR
 2026-10-09,Servognome,Gnomercy,GNMY
 2026-10-09,,"General Technics",GNTC
@@ -208,6 +206,7 @@ date,player,companyName,companyCode
 2026-10-09,11123123,幻萌星际有限公司,HMX
 2026-10-09,,HiiNeut,HNT
 2026-10-09,,知远控股集团,HONG
+2026-10-11,,HappyFeet,HPF
 2026-10-09,RaanCryo,"Hephaestus Metallurgy",HPSM
 2026-10-09,SurvivorBob,"HT Consolidated",HT
 2026-10-09,opie,"Hyper Wedge",HW
@@ -220,6 +219,7 @@ date,player,companyName,companyCode
 2026-10-09,IDontThink,IDontThink,IDT
 2026-10-09,Akyan,Ingenious,IF
 2026-10-09,,"Intergalactic Trade",IGT
+2026-10-11,,"Imperial Industries",II27
 2026-10-09,IIZard,IIZard,IIZ
 2026-10-09,jeremysmoke,"International Movers OG",IMOG
 2026-10-09,allocater,"Interstellar Gaia",INGA
@@ -370,7 +370,7 @@ date,player,companyName,companyCode
 2026-10-09,,"Rique's Fountain",RIC
 2026-10-09,KatAnna,"Reckless Logistics",RLOG
 2026-10-09,jhim.mhorrison,"Hoshiko Robotics",ROBO
-2026-10-09,,"Red Panda Synergy",RPSY
+2026-10-09,DrTyny,"Red Panda Synergy",RPSY
 2026-10-09,RNGzero,"RoadRunner Beep Beep LLC",RRBB
 2026-10-09,Gavano,Rumination,RUMI
 2026-10-09,caskman,"Ftori Cooperative",RYSN
@@ -422,6 +422,7 @@ date,player,companyName,companyCode
 2026-10-09,,TacosIncLtd,TCIL
 2026-10-09,,Tweedy,TDY
 2026-10-09,Exeler,Terrascape,TER
+2026-10-11,,Tethys,TESE
 2026-10-09,Chocolate_Pie698,"Textron Incorporated",TEXT
 2026-10-09,,"Terminus Foundation",TF4
 2026-10-09,DesertOrder,"TitanForge Enterprise",TFE
@@ -438,7 +439,6 @@ date,player,companyName,companyCode
 2026-10-09,,TheRealOhOne,TR01
 2026-10-09,,"Toro SA",TR8
 2026-10-09,martinc1194,"TREE Company",TREC
-2026-10-09,,Terrasen,TRSN
 2026-10-09,tarrant33,"Tarrant Inc",TRT
 2026-10-09,Tsamsiyu1,"Tsams co",TSAM
 2026-10-09,thatguywithglasses,ThatFarmer,TUFA
@@ -481,12 +481,12 @@ date,player,companyName,companyCode
 2026-10-09,Rwinner16,"Willow Enterprises",W
 2026-10-09,X3,"X3 Goods",X3G
 2026-10-09,err0x5dd,err0x5dd,X5DD
+2026-10-11,,LONG5,XDG
 2026-10-09,BigBabyBoss,BigBabyInterteinment,XOR
 2026-10-09,Neth_Havoc,ExoSpace,XOS
 2026-10-09,,"RAXX CORP",XYC
 2026-10-09,Ielisa,"Yggdrasil Group",YGGG
 2026-10-09,,"YUJHIN inc",YJN
-2026-10-09,,啊giang,YZM
 2026-10-09,,A农业实验基地,Z411
 2026-10-09,leonidwlb,ZakCorp,ZAKC
 2026-10-09,,Zordan,ZED

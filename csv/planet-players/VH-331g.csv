@@ -21,7 +21,6 @@ date,player,companyName,companyCode
 2026-10-09,Batman_Project,"Aqua Solutions",AQS
 2026-10-09,TherenShadowborn,"Ares Corp",ARES
 2026-10-09,armorlord,"Armored Supplies LLC",ARMR
-2026-10-09,Alexandro098,AlexRovich,ARO
 2026-10-09,guilhemarnal,artcorp,ARTC
 2026-10-09,ashvan,"Ash LLC",ASLL
 2026-10-09,robb83,"Another Space Manufacturer",ASM
@@ -38,6 +37,7 @@ date,player,companyName,companyCode
 2026-10-09,samman119,AAAAA,AX5
 2026-10-09,atyopsis,"Axiom Labs",AXL
 2026-10-09,yap123,寰宇工业公司,AYAP
+2026-10-11,,Bakkar,B1KR
 2026-10-09,Bryce7699,"Bunyip Agricultural Enrichment",BAE
 2026-10-09,TikiBaby,"Balls Holding Corp",BALL
 2026-10-09,The_Second_Amendment,"BBL Incorporated",BBL
@@ -169,7 +169,7 @@ date,player,companyName,companyCode
 2026-10-09,MiyaAmano,Harmonics,HRM
 2026-10-09,RaptorJesu,"Hornshire Industries",HRSR
 2026-10-09,hsntksn.logsipace,HT-Complex,HT14
-2026-10-09,,寰宇科技公司,HTG
+2026-10-09,pyno4979,寰宇科技公司,HTG
 2026-10-09,SurvivorBob,"HT Consolidated",HT
 2026-10-09,Zwarte_Lola,"Humble Farmer",HUFA
 2026-10-09,lianyuhun,LIANYUHUN,HUN
@@ -258,7 +258,6 @@ date,player,companyName,companyCode
 2026-10-09,noturjedi,noturjedi,NUJ
 2026-10-09,ydrass,dryad,O7O7
 2026-10-09,purpleorangeazure,orangeazure,OAZ
-2026-10-09,night_spark,"Obsidian Transport Group",OBTG
 2026-10-09,Simaios,"Omg Crazy Kitties",OCK
 2026-10-09,0ctave,OCTAVE_VICTUALS,OCTV
 2026-10-09,Some_Dude,"Ono-Sendai Corporation",OC
@@ -358,6 +357,7 @@ date,player,companyName,companyCode
 2026-10-09,HMNebula,"Tx Cooperation",TCO
 2026-10-09,TimurOm,T-Const,TCT
 2026-10-09,PimentaPreta,"Terraform Provisions",TEP
+2026-10-11,,Terry,TERY
 2026-10-09,Akyuu,三角能源科技,TET
 2026-10-09,Tumble_,"Tumble Foods and Crafts",TFAC
 2026-10-09,tu1nkers,"the food farmers united",TFFU
