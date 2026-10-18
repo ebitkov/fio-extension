@@ -2,6 +2,7 @@ date,player,companyName,companyCode
 2026-10-09,Bobzor,"Indentured Servant",1NS
 2026-10-09,d_211ba,"two two RED purple",22RP
 2026-10-09,zillatron,"TwentySeven Bit Industries",27BI
+2026-10-18,mooninrain,April,A4
 2026-10-09,AlphaActual_01,"A_A Holdings",AAH
 2026-10-09,abinnongchang,abinfarming,ABF
 2026-10-09,Sweetshare,"AstraCore Industries",ACI
@@ -35,7 +36,6 @@ date,player,companyName,companyCode
 2026-10-09,evayoo,"Burger Bus",BAD
 2026-10-09,Pxlfox,"Bitkov Industries",BIT
 2026-10-09,Jaffa,Weyland,BL7
-2026-10-09,WEMAKEIT,BuildersCO,BLDC
 2026-10-09,xepiov,Blake,BLK
 2026-10-09,Stonke,BlastingInc,BLST
 2026-10-09,holyss,"BC enterpise",BRCE
@@ -109,7 +109,7 @@ date,player,companyName,companyCode
 2026-10-09,Papercamera7709,"Engadine Maccas PSaM",JCJ
 2026-10-09,MLION,"Valhalla's Table",JJ
 2026-10-09,Hernanduer,Kalleria,KALL
-2026-10-09,Leifren,"Katalona Inc",KATI
+2026-10-18,stabbyfork,KaseKorp,KASE
 2026-10-09,,"Kawakawa, Inc",KAWA
 2026-10-09,Choody,"Kmart-Blockbuster Mining Corp",KBMC
 2026-10-09,jvaler,Ko-Combine,KCB
@@ -132,6 +132,7 @@ date,player,companyName,companyCode
 2026-10-09,cloms,LinTek,LTK
 2026-10-09,Freeloader,ECOLUNG,LUNG
 2026-10-09,Zentih,保护伞无限责任公司,LV9
+2026-10-18,Kempior,"Lixium Industries",LXI
 2026-10-09,Magican1980,TheMagican1980,M24
 2026-10-09,melon164,"Melon Industries",M3L
 2026-10-09,Markus65,Markus,M65
@@ -158,6 +159,7 @@ date,player,companyName,companyCode
 2026-10-09,nano_xXx,"Overpriced OWLS StufCO",OWL
 2026-10-09,jcheung9941,"Poor Decisions Co",PDC
 2026-10-09,bumm3rr,"Poorly Designed Products",PDP
+2026-10-18,Peacethief,"Peacethief Company",PETF
 2026-10-09,RichardP,"Societatem Aedificans",PHSC
 2026-10-09,PHANTOMSPACE,PHANTOM,PH
 2026-10-09,plantay,PLANTEX,PLNX
@@ -184,6 +186,7 @@ date,player,companyName,companyCode
 2026-10-09,Stahlbrand,"Stahlbrand Minerals",SBMN
 2026-10-09,antan772,StoCold,SCOD
 2026-10-09,PetterN,"Core Industries",SELF
+2026-10-18,seraphim_corp.,"Seraphim Corp",SEPI
 2026-10-09,saigo,"SAIGO Enterprises",SE
 2026-10-09,Rivie,"Shah Gale Solutions",SGS
 2026-10-09,Shihido,ShihidoCore,SHCO
@@ -216,6 +219,7 @@ date,player,companyName,companyCode
 2026-10-09,TRUEnterprises,"TRU Enterprises",TRU
 2026-10-09,capi3101,"Turdmaker Industries",TURD
 2026-10-09,Anaksa,"Universal Boring Сompany",UBC
+2026-10-18,MaxKalina,UniCorp,UC
 2026-10-09,Umbers,"Umber Commodities",UMC
 2026-10-09,rain9441,"Universal Reserve",UR
 2026-10-09,MrSmith33,VacFactory,VF33
@@ -231,6 +235,7 @@ date,player,companyName,companyCode
 2026-10-09,Medos,Allayas,YAS
 2026-10-09,YGB,The_YGB,YGB
 2026-10-09,Ielisa,"Yggdrasil Group",YGGG
+2026-10-18,YukiAlado,YukiCorp,YKC
 2026-10-09,YuLun,"YuLun Group",YLG
 2026-10-09,,"Zeiss Enterprises",ZEIS
 2026-10-09,Killer656520,"Zenith Industries",ZI
