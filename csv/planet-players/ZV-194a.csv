@@ -1,7 +1,6 @@
 date,player,companyName,companyCode
 2026-10-09,Bobzor,"Indentured Servant",1NS
 2026-10-09,zillatron,"TwentySeven Bit Industries",27BI
-2026-10-09,rvila,tresleches,3LCH
 2026-10-09,MerchSkele,GLINT88,9BRV
 2026-10-09,TheLetterG,Aluminite,A1U
 2026-10-09,DavikCo,"Triple A Goods",AAA
@@ -43,6 +42,7 @@ date,player,companyName,companyCode
 2026-10-09,Laaxus,"DeepSpace Technologies",DST
 2026-10-09,Bitterbrew,PlanetWorks,EIG6
 2026-10-09,Luis8789,"Edenex Provision Corp",EPC
+2026-10-25,Duriath,"Eregion Smiths Coalition",ERSC
 2026-10-09,Dyeus_Phter,"Energetic Solutions",ESOL
 2026-10-09,EvoV,EvoV1980,EVOV
 2026-10-09,,EvoSolo,EVSL
@@ -64,6 +64,7 @@ date,player,companyName,companyCode
 2026-10-09,guangzhou0525498,"guangzhou agriculture",GZAG
 2026-10-09,Barabbas,"Haberdashery Inc",HABE
 2026-10-09,harveyG,"Harvey Industries",HAI
+2026-10-25,Leathlord,"Halo Metals",HALO
 2026-10-09,Harpercz,HarpCorp,HAR
 2026-10-09,Hakey,Hellios,HEL
 2026-10-09,Fuwolf,HF-Farming,HFF
@@ -71,6 +72,7 @@ date,player,companyName,companyCode
 2026-10-09,Rune_Cailliau124,"HepHaestus Metals",HHM
 2026-10-09,Fremen45,"Heimdall Industries",HL
 2026-10-09,,"Aceland Holdings",HOLD
+2026-10-25,Ritsar,HappyFeet,HPF
 2026-10-09,HRESS,"Holy Roman Empire Office",HREO
 2026-10-09,s9412105,HsinYu,HSIN
 2026-10-09,SurvivorBob,"HT Consolidated",HT
@@ -91,14 +93,13 @@ date,player,companyName,companyCode
 2026-10-09,Stack-boy,LittlePlanet,LBP
 2026-10-09,LiliDragon,"Lunar Eclipse",LE
 2026-10-09,AriesNation,"Lunar Forge",LF
-2026-10-09,zogii,"Lumina Inc",LMNA
 2026-10-09,lampr,"lamp corp",LMPR
 2026-10-09,Sunrice,"Antares Logistics Union",LOGI
 2026-10-09,Freeloader,ECOLUNG,LUNG
 2026-10-09,Kempior,"Lixium Industries",LXI
 2026-10-09,Mitsuha,"Mitsuha Celestial Industries",MCI
 2026-10-09,Jebas,Mageris,MIGS
-2026-10-09,Mirrorsymmetry,"Mirror Symmetry",MIRS
+2026-10-25,Mirrorsymmetry,"Mirror Symmetry Labs",MIRS
 2026-10-09,Memes_Of_Production,"Memes Of Production",MO
 2026-10-09,MostlyRenegade,"Renegades Inc.",MRX
 2026-10-09,Marty82,MARTY,MTY
@@ -146,6 +147,7 @@ date,player,companyName,companyCode
 2026-10-09,SFScorpio,Skyprod,SKYP
 2026-10-09,MapReduce,"Soletta Engineering",SLE
 2026-10-09,FUC_Prozer,"Star Lift Propulsion",SLPP
+2026-10-25,Shimada,Shimada,SMDA
 2026-10-09,Callisto,"Santonian Industrial",SNTI
 2026-10-09,Tanda,"Silent Running",SN
 2026-10-09,KaiserZero,"Space X",SPCX

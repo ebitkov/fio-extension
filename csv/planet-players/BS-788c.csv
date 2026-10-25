@@ -18,14 +18,15 @@ date,player,companyName,companyCode
 2026-10-09,yap123,寰宇工业公司,AYAP
 2026-10-09,TikiBaby,"Balls Holding Corp",BALL
 2026-10-09,CollistaR,"BAT Inc",BATI
-2026-10-09,BGBullet,Dservice,BG4
 2026-10-09,Stonke,BlastingInc,BLST
+2026-10-25,Michi1802,"Blue Michi",BMC
 2026-10-09,GuyKid88,Bogside,BOG
 2026-10-09,br000t5ch,"br000t5ch corporate",BR0C
 2026-10-09,Lometir,可爱洛米集团,C7
 2026-10-09,AnteChristo33,"Cauda Scorpionis",CAS
 2026-10-09,LamPC,"花猫集团 Colorful Cat Co.",CC
 2026-10-09,Cirop,"Cirop Corp",CRCP
+2026-10-25,Xbop,Строй-батя,CT6
 2026-10-09,nickkellogg93,darkdust,D3E
 2026-10-09,Darwynn,DarkFyrCorp,DFC
 2026-10-09,dogeangel,DOGEANGEL,DGCP
@@ -55,7 +56,6 @@ date,player,companyName,companyCode
 2026-10-09,,GreenGoods,GGS
 2026-10-09,reddead_solo,Gingerstan,GG
 2026-10-09,GMeleiro,GM-Corp,GMEL
-2026-10-09,zehoSLAV,greendeer,GNDR
 2026-10-09,HelloDud,FARTINGCOMPANY,GOON
 2026-10-09,Gladi099,"Global Omni",GO
 2026-10-09,Thohorn,"Grunn Resources",GRS
@@ -76,6 +76,7 @@ date,player,companyName,companyCode
 2026-10-09,JohnCook22,JohnCooksInc,JC2
 2026-10-09,MLION,"Valhalla's Table",JJ
 2026-10-09,Kahdarin,KAHDARIN,KAH
+2026-10-25,,kalthael,KAL
 2026-10-09,,KARAMI,KGM
 2026-10-09,Kimling,Kimling,KIM
 2026-10-09,Filefolders,"Knott-Stone-Davis Cooperative",KSDC
@@ -90,6 +91,7 @@ date,player,companyName,companyCode
 2026-10-18,MeagerMind,MeagerMindQ,MMQ
 2026-10-09,MioandMeow,MioandMeow,MNME
 2026-10-09,Id10t,"Momentum Management",MOMO
+2026-10-25,Monkeban,Moncent,MONC
 2026-10-09,Mrgl,"Mrgl Corp",MRGL
 2026-10-09,MoonSugarTravels,"Moon Sugar Metal Works",MSMW
 2026-10-09,NoobleMason,"Mason Supply Ltd",MSP
@@ -99,10 +101,8 @@ date,player,companyName,companyCode
 2026-10-09,Noelseppel,"New Wave Inc",NEW
 2026-10-09,NickJamesBud,NickJamesBud,NJB
 2026-10-09,shuki,NIGHTMARE,NMR
-2026-10-09,Nomi.N,NomiNovaCorp,NNC
 2026-10-09,ertyne,"NovaTech Consortium",NVT
 2026-10-09,Ablabla,"Organic Baselines",OBL
-2026-10-09,Some_Dude,"Ono-Sendai Corporation",OC
 2026-10-09,Omikusela,OmikuselaAG,OMI
 2026-10-09,mrmaxpower,OMNICORP,OMNI
 2026-10-09,old,食为天探索,OOO
@@ -123,7 +123,6 @@ date,player,companyName,companyCode
 2026-10-09,Belladonna,"Pantheon Corporation",PTH
 2026-10-09,BigCnmmerB01,PyroMins,PYMN
 2026-10-09,ml22,哈吉米集团,QDL
-2026-10-09,Amegasuki,"Quanta Magicia Pelerium",QMP
 2026-10-09,Pomme_de_Terroriste,"QUALITY PINTS",QP
 2026-10-09,RestOwner,RestAurantCn,RACN
 2026-10-09,Discommodity,"Republic of Ceres",RC
@@ -153,9 +152,9 @@ date,player,companyName,companyCode
 2026-10-09,SystemicRisk,"Systemic Risk Management",SRM
 2026-10-09,sidepipe,"Short Term Grains Ltd",STGL
 2026-10-09,Siegrfried,"STK Industries",STKI
+2026-10-25,JackdawCanFly,StellarLife,STLI
 2026-10-09,golemss,"Space Tomato",STOM
 2026-10-09,exphexis,"Spacewell Industries",SWI
-2026-10-18,,Tapfer,TAP
 2026-10-09,lostpheonix,"Carbon Maniac",TCM
 2026-10-09,Akyuu,三角能源科技,TET
 2026-10-09,Toothcrush,"Tooth Inc",THIN
@@ -174,11 +173,13 @@ date,player,companyName,companyCode
 2026-10-09,ananbjt,wanan,WAN
 2026-10-09,KevinBravo,"Wolfpack Inc",WLF
 2026-10-09,alonzojimenaso30,"Workers Socialist FV",WSFV
+2026-10-25,Lumivient,Wisely,WSLY
 2026-10-09,wxj,训杰集团A,WXJ
 2026-10-09,x3m,"x3m Holdings",X3M
 2026-10-09,Karlton,X-corp,XCRP
 2026-10-09,Totue123,"Nero Inc",XMR
 2026-10-09,Medos,Allayas,YAS
+2026-10-25,vincentlam,安定堂涼茶,YDT
 2026-10-09,YukiAlado,YukiCorp,YKC
 2026-10-09,yunyunyunyunyun,YUIYUI,YUI
 2026-10-09,ctb625,中承营养集团,ZFCO

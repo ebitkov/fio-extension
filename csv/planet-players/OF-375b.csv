@@ -1,7 +1,6 @@
 date,player,companyName,companyCode
 2026-10-09,12dsk,卡内基钢铁,12DS
 2026-10-09,ppurjahn,TheCarbonCandy,2DF5
-2026-10-09,JamesTofo,"Star Rush",69ER
 2026-10-09,mooninrain,April,A4
 2026-10-09,Goldreaver,"Axiomatic Astra Industries",AAI
 2026-10-09,JonteH10,Intervarta,AFSD
@@ -31,7 +30,6 @@ date,player,companyName,companyCode
 2026-10-09,xflqr_,"Carbon enterprise",CAR
 2026-10-09,gnieboer,"Carbon Conglomerate",CBCG
 2026-10-09,LamPC,"花猫集团 Colorful Cat Co.",CC
-2026-10-09,Edurat16,Cooperativa_especial_del_camp,CEDC
 2026-10-09,Pas.deChat,"Cronus Enterprises",CE
 2026-10-09,Corriild,"Corriild Farming AG",CFA
 2026-10-09,jahomelgar,BINARK,COD1
@@ -45,9 +43,9 @@ date,player,companyName,companyCode
 2026-10-09,geckoman,"Caspian Charter",CSP
 2026-10-09,ztaylor16,"Darkstar Divisions",DARK
 2026-10-09,,DuckyCompany,DCY
+2026-10-25,Twonkage,DinkDinkIndustries,DDI
 2026-10-09,LaenUnder,"Laying Under Dirt Inc",DIRT
 2026-10-09,Jay_Gould,DowCom_Ltd,DOCO
-2026-10-09,Waterbowser,DRO-HUB,DRO
 2026-10-09,CelesteriaE07,Epsil0Na,E07
 2026-10-09,Magno919,Eagle919,E919
 2026-10-09,4TheLICHking,EatALot,EATL
@@ -81,8 +79,6 @@ date,player,companyName,companyCode
 2026-10-09,Nhhvhy,Hooli,HLI
 2026-10-09,Johun_Lepogoshku,"Home Deport",HMDP
 2026-10-09,SurvivorBob,"HT Consolidated",HT
-2026-10-09,Zwarte_Lola,"Humble Farmer",HUFA
-2026-10-09,,"Hort von Mydulan",HVM
 2026-10-09,PurpleOrange,Hydrohomies,HYDR
 2026-10-18,Rrrger,"Integral Access Services",IAS
 2026-10-09,sibe32,IceCandy,ICE
@@ -118,7 +114,6 @@ date,player,companyName,companyCode
 2026-10-09,MoonSugarTravels,"Moon Sugar Metal Works",MSMW
 2026-10-09,NeonEagle,"Metal Eagle",MTE
 2026-10-09,BOBONG,MetalMetalMetal,MTMT
-2026-10-09,KeepMustard,"Mustard Co",MUST
 2026-10-09,__Nabla,"Nabla Interstellar Metallurgy",NAIM
 2026-10-09,UserRqrd,"Nash Inc",NASH
 2026-10-09,Lofaro,Niblisco,NBLS
@@ -148,6 +143,7 @@ date,player,companyName,companyCode
 2026-10-09,Relm,AgriRelm,RELM
 2026-10-09,RGB.WOODEN.FISH,RGBFISH,RGB
 2026-10-09,SamuraiThunderduck,"Rothana Heavy Engineering",RHE
+2026-10-25,fosknat,WREZP,RHI
 2026-10-09,Rinoic,"Rinoic Industries",RINI
 2026-10-09,royalkadet,royalkadet,RKD
 2026-10-09,Vention,"Rankin Operations Group",ROG

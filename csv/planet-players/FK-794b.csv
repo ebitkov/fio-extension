@@ -18,8 +18,8 @@ date,player,companyName,companyCode
 2026-10-09,Paradigm55,AgriGain,AGRI
 2026-10-09,RayKowalchuk,"homo ahimsa Unlimited",AHIM
 2026-10-09,Morduur,"Artanes Inc",AI
+2026-10-25,Akanash,"Akanash incorporated",AKAN
 2026-10-09,miminikke,akkkki,AKI
-2026-10-09,,alainsarl,ALSL
 2026-10-09,AlexiPetrikov,"ALXI AGRICULTURE",ALXR
 2026-10-09,Arrathir,"Advanced Metallurgy Corp",AMC
 2026-10-09,MrPerenka,ANBcrops,ANBC
@@ -48,7 +48,6 @@ date,player,companyName,companyCode
 2026-10-09,AuroraZero,"Caerulea Moon",BLMN
 2026-10-09,bloemist,BLOECORP,BLOE
 2026-10-09,GuyKid88,Bogside,BOG
-2026-10-09,Boohea,"Boohea Co",BOO
 2026-10-09,CorporateJester,BRUHH,BRUH
 2026-10-09,IKKU,BLACKSTOCK,BS3
 2026-10-09,FinancialDJ,Booker,BUK
@@ -76,6 +75,7 @@ date,player,companyName,companyCode
 2026-10-09,leafage,万得冶金集团,CQK
 2026-10-09,Cirop,"Cirop Corp",CRCP
 2026-10-09,Cyrnaonyx,"Cyrna Industries",CRNI
+2026-10-25,,"crop co",CROI
 2026-10-09,geckoman,"Caspian Charter",CSP
 2026-10-09,KZ_Kawasaki,"Canadian Tire and Ammo",CTIR
 2026-10-09,,"Citrus Union",CU
@@ -86,17 +86,17 @@ date,player,companyName,companyCode
 2026-10-09,BD25,"DB Industrie GmbH",DB
 2026-10-09,diancibofang,远行星矿业,DCBF
 2026-10-18,DasClorio,DasClorioSupply,DCS
-2026-10-09,deathearth,death,DE6
+2026-10-25,,"Demo Company",DEMO
 2026-10-09,DemonicSlime,"Demonic Productions",DEMP
 2026-10-18,Darwynn,DarkFyrCorp,DFC
 2026-10-09,Disarray,DisarrayInc,DINC
 2026-10-09,DuskLucifer,Athena,DL
+2026-10-25,,"Darkstar Mercantile Company",DMCO
 2026-10-09,BigRob,"Dreadnought Refineries",DNT
 2026-10-09,Jay_Gould,DowCom_Ltd,DOCO
 2026-10-09,Spezialist,"Drax Industries",DRAX
 2026-10-09,droidkfx,"Droid Repair Kolective",DRKK
 2026-10-09,dragoexp,Dragons,DRS
-2026-10-09,MaximTheDhole,ДолГаз,DSG
 2026-10-09,Moomiji,"Dissectum Space",DSTM
 2026-10-18,DTG-Inc,"DTG Inc",DTG
 2026-10-09,dustwolfy,DustCorp,DUST
@@ -217,7 +217,7 @@ date,player,companyName,companyCode
 2026-10-09,KAMISAMA223,联合果品INS,LHGP
 2026-10-09,No.9,"Life Protocol",LIF
 2026-10-09,lighroy,YH2947,LIGH
-2026-10-09,clicik,Cyx0331,LIN
+2026-10-25,KrisWolfe,"The Lemmings",LMM
 2026-10-09,lampr,"lamp corp",LMPR
 2026-10-09,Vence62,"Lunaricon Semi",LNS
 2026-10-09,Graemeu4,loafe,LOAF
@@ -230,6 +230,7 @@ date,player,companyName,companyCode
 2026-10-09,MysteriousWalrus,"Citrus Export Syndicate",LYME
 2026-10-09,Lyhroi,LyhTech,LYTE
 2026-10-09,Magican1980,TheMagican1980,M24
+2026-10-25,Soulkith,"Malatesta Fuel Collective",MACO
 2026-10-09,Neralath,Mandrake,MAN
 2026-10-09,MayaShark,MayaCorp,MAYA
 2026-10-09,mangeur_de_pain,mangeurdepain,MDP
@@ -270,6 +271,7 @@ date,player,companyName,companyCode
 2026-10-09,Nakohnen,"NAK Cooperation",NKC
 2026-10-09,Nekkar,Nekkar,NKK
 2026-10-09,GameCrater,"Nook Inc",NOOK
+2026-10-25,_radovan,"New Path Farm",NPF
 2026-10-09,HurricaneMetal,"Norvinsk-Terra Indust Group",NTHI
 2026-10-09,noturjedi,noturjedi,NUJ
 2026-10-09,Nullhz,"Nullia Argi",NULA
@@ -366,7 +368,6 @@ date,player,companyName,companyCode
 2026-10-09,Palm0live97424,EXPEDIT,STE
 2026-10-09,vnc,STINX,STNX
 2026-10-09,golemss,"Space Tomato",STOM
-2026-10-09,stringer,"String Corp",STRI
 2026-10-09,SmilingProphet,ANGELCorp,STRM
 2026-10-09,SunKiller,SunTech,ST
 2026-10-09,MaddieTheDragon,SunFounder,SUNF
@@ -380,6 +381,7 @@ date,player,companyName,companyCode
 2026-10-09,PimentaPreta,"Terraform Provisions",TEP
 2026-10-09,Akyuu,三角能源科技,TET
 2026-10-09,Tumble_,"Tumble Foods and Crafts",TFAC
+2026-10-25,Taffos,"Taffos Group",TFF
 2026-10-09,,"Tumbling Foods Inc.",TFI
 2026-10-09,Toothcrush,"Tooth Inc",THIN
 2026-10-09,floor,"Greenwich TeaHouse",TH
@@ -405,7 +407,6 @@ date,player,companyName,companyCode
 2026-10-09,KStam,Vitae,VTA
 2026-10-09,osnalite,"Vita Vi",VVI
 2026-10-09,,"Wet And Dry",WAD
-2026-10-09,wobuqiming,我不起名1,WBQ
 2026-10-09,,MAeStROIZero,WEAW
 2026-10-09,Joker92,"Wet Corp",WET
 2026-10-09,KevinBravo,"Wolfpack Inc",WLF
@@ -416,7 +417,6 @@ date,player,companyName,companyCode
 2026-10-09,x3m,"x3m Holdings",X3M
 2026-10-09,qaz55818,LeoWen,YAHA
 2026-10-09,vincentlam,安定堂涼茶,YDT
-2026-10-09,YukiAlado,YukiCorp,YKC
 2026-10-09,YuLun,"YuLun Group",YLG
 2026-10-09,Vicicye,屿汐智能制造,YXP
 2026-10-09,Schroet,"Zaibatsu Corporation",ZAI

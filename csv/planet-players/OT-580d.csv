@@ -15,6 +15,7 @@ date,player,companyName,companyCode
 2026-10-09,Xk37,"Kodiak Industries",KI
 2026-10-09,Kofk,Kofkompany,KOFK
 2026-10-09,sirdorius,"Karl Holdings",KRLH
+2026-10-25,Neralath,Mandrake,MAN
 2026-10-09,Pizzzaaa,"Magnetic Holdings",MHC
 2026-10-09,StJoseMary,美杜莎制造,MMCC
 2026-10-09,Cyrup,"Pongon Pyrolysis Corp",PON
@@ -22,3 +23,4 @@ date,player,companyName,companyCode
 2026-10-09,thunderfootdan,ThunderCorp,THUN
 2026-10-09,floor,"Greenwich TeaHouse",TH
 2026-10-09,Taiz,"Taiz Enterprises",TPE
+2026-10-25,,VARS-MINERALS,VMS

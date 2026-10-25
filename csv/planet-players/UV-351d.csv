@@ -1,6 +1,5 @@
 date,player,companyName,companyCode
 2026-10-09,AlphaActual_01,"A_A Holdings",AAH
-2026-10-09,Bryan1805,"ATLAS ENERGY",ALEN
 2026-10-09,Alpinelord,"Alpine Corp",APC
 2026-10-09,BahaRuinsEverything,"Baha's Ruined Stuff",BAHA
 2026-10-09,GeneralConsensus,Badsoil,BAS
@@ -21,9 +20,7 @@ date,player,companyName,companyCode
 2026-10-09,tackle,"KSS Robotics",KSS
 2026-10-09,Booyanach,"Lean Fooels",LFOO
 2026-10-09,rtyphantom,"Lucid Intersect",LIX
-2026-10-09,zogii,"Lumina Inc",LMNA
 2026-10-09,TheMadCam,MadRealm,MADR
-2026-10-09,evadinglife,MoreFairGame,MFG
 2026-10-09,latosz,"Space Milk",MILK
 2026-10-09,kaz49,"Mark I",MKI
 2026-10-09,Seacilia,"Blinkmoth Collective",MOTH
@@ -37,6 +34,7 @@ date,player,companyName,companyCode
 2026-10-09,cytiko,"Omrics Propulsives",OMRX
 2026-10-09,Leguvan,"Prophet Inc",PFT
 2026-10-09,Akare,"Phat Lewtz",PHAT
+2026-10-25,Pizzajon,StoneKnifeInc,PZJN
 2026-10-09,Hildron,"Smelting & Carbonisation Ring",SCR
 2026-10-09,marshmallows72,"SM limited",SML
 2026-10-09,sommgaii,"Snek n Lerdr",SNL

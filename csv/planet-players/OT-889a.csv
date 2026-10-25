@@ -16,7 +16,6 @@ date,player,companyName,companyCode
 2026-10-09,babipoki,"Babipoki Industries",BABI
 2026-10-09,SLKLS,"Bergbaugesellschaft Alpha",BBGA
 2026-10-09,KLS,"Bergbaugesellschaft Beta",BBGB
-2026-10-18,,BENCORP,BCP
 2026-10-09,,bibubibu,BIBU
 2026-10-09,,Binsong,BINS
 2026-10-09,Bickkert1,"Bickkerts Trading INC",BITI
@@ -72,12 +71,12 @@ date,player,companyName,companyCode
 2026-10-09,CraftsmanThirteen,Highlander,HGH
 2026-10-09,Ramielhl,"Hammond Robotics",HMRB
 2026-10-09,,Plant,HT1
-2026-10-18,,"Horizon Exchange",HZNX
 2026-10-09,Brownieus,"Icarus Expeditions",IEDS
 2026-10-09,Anduin,"Int'l Import-Export Trading Co",IIET
 2026-10-09,Wassah,"Indy ventures",INDV
 2026-10-09,,IntoHellYaGo,INTO
 2026-10-09,,fantacy,IRO
+2026-10-25,,Nasa's,ISS
 2026-10-09,JaySix,"JoshCo Fuels",JCF
 2026-10-09,JCham,"JCS Industries",JCS
 2026-10-09,UniversalTrader44,"JET Manufacturing and Products",JMP
@@ -104,7 +103,6 @@ date,player,companyName,companyCode
 2026-10-09,StJoseMary,美杜莎制造,MMCC
 2026-10-09,miaomiaomiao,miaomiaomiao,MMMM
 2026-10-09,,Manomano,MNO
-2026-10-09,,Noon'sMiner,MOOA
 2026-10-09,bobnobrain,Xenofungus,MUSH
 2026-10-09,iHateAnime,Miniverse,MV
 2026-10-09,,MiningWonder,MW11
@@ -116,6 +114,7 @@ date,player,companyName,companyCode
 2026-10-09,Orbis,Orbis,ORS
 2026-10-09,,pipixel,PIX
 2026-10-09,aleksmolot,"Pokemon Company",POKE
+2026-10-25,Harrison17,POLAR,POLR
 2026-10-09,,lcpro,PROR
 2026-10-09,Pvf,PvFlo,PVF
 2026-10-09,Olit44,"Quebec Food",QCF
@@ -125,7 +124,6 @@ date,player,companyName,companyCode
 2026-10-09,Rek,"Resource Extraction Services",RES
 2026-10-09,Ruyagormeyenadam,Ruyagormeyenadam,RGA
 2026-10-09,,Rhobyte,RHO
-2026-10-18,,"RussMan Group",RMG
 2026-10-09,starWanderer,"Rise of Mining Star",RMS
 2026-10-09,,"Rezonium Dynamic",RZD
 2026-10-09,SebOfBorg1,SebOfBorg1,SB1
@@ -145,7 +143,7 @@ date,player,companyName,companyCode
 2026-10-09,Promontory,STARK,STRK
 2026-10-09,SP4X,SPXv2,SXX
 2026-10-09,550A-SY-Nth,守夜4th,SY4
-2026-10-09,Seymi,"Seymi Mining Industry",SYMI
+2026-10-25,gollias,Tapfer,TAP
 2026-10-09,xalf,"Space Industries",TBF
 2026-10-09,Mr.Satan,"Two Bricks",TBS
 2026-10-09,,The_Company,TCP
@@ -175,7 +173,6 @@ date,player,companyName,companyCode
 2026-10-09,nuclearbowel,"Warp Industries",WPI
 2026-10-09,,"The Underworld",WRLD
 2026-10-09,,XiaKeXing,XIA
-2026-10-09,,星际生产部,XJSC
 2026-10-09,Zenton8787,"Yoshi Corp",YOS
 2026-10-09,Vicicye,屿汐智能制造,YXP
 2026-10-09,208155985,ZYHWAN,ZYH
