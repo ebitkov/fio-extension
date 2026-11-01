@@ -11,7 +11,6 @@ date,player,companyName,companyCode
 2026-10-09,AGM-114,"AG Micro Systems",AGMS
 2026-10-09,gregor40,AISEEMO,AIMO
 2026-10-09,Aikawa,"Aikawa Carbon",AKC
-2026-10-09,rqmt2004,Alucast,AL2
 2026-10-25,SpringLobster45,AlloTech,ALTC
 2026-10-09,Corbus,Amalgamation,AMAL
 2026-10-09,Arrathir,"Advanced Metallurgy Corp",AMC
@@ -45,6 +44,7 @@ date,player,companyName,companyCode
 2026-10-09,MrHamburger,BlackSpade,BSPD
 2026-10-09,Wildgardener,Buildtech,BTEC
 2026-10-09,aBillionSamplesOfFlowers,Bunker,BUNK
+2026-11-01,Grandpa_Canuck,"Canuck Industries",CAI
 2026-10-09,edwardzlf,C-Corp,CCP1
 2026-10-09,,"Consortium of Debt & Deposits",CDDA
 2026-10-09,ACE-TAFFY,ACE-TAFFY,CFM
@@ -53,6 +53,7 @@ date,player,companyName,companyCode
 2026-10-09,shakk,"Carboneum Deimos",CRBD
 2026-10-09,Craneman5,Crane,CRE
 2026-10-09,KZ_Kawasaki,"Canadian Tire and Ammo",CTIR
+2026-11-01,Lazenander,Cynchronous,CYNC
 2026-10-09,shemphys,DonMiguel,DMG
 2026-10-09,DraconisDomini,"Dragon Corp",DNC
 2026-10-09,droidkfx,"Droid Repair Kolective",DRKK
@@ -82,6 +83,7 @@ date,player,companyName,companyCode
 2026-10-09,alvteagiar,贵物寰宇联合,GWG
 2026-10-09,Barabbas,"Haberdashery Inc",HABE
 2026-10-09,harveyG,"Harvey Industries",HAI
+2026-11-01,Leathlord,"Halo Metals",HALO
 2026-10-09,Harpercz,HarpCorp,HAR
 2026-10-09,Roche,"Martian Medical",HEAL
 2026-10-09,Halibut_9000,"Helios ENG Lite Production",HELP
@@ -152,6 +154,7 @@ date,player,companyName,companyCode
 2026-10-09,Dentalicious,MonsantoDelight,MSNT
 2026-10-25,Solziel,"Mostek Semiconductors",MSTK
 2026-10-09,Marty82,MARTY,MTY
+2026-11-01,MzEvilCanadian,"MzEvil Commerce",MZE
 2026-10-09,RiseofFilth,"Non-Refundable Industries",NFUN
 2026-10-09,Nikuno,"Nikuno Corp",NIKU
 2026-10-09,Nirces,"NIRCo 2",NIRC
@@ -164,7 +167,6 @@ date,player,companyName,companyCode
 2026-10-09,nano_xXx,"Overpriced OWLS StufCO",OWL
 2026-10-09,jcheung9941,"Poor Decisions Co",PDC
 2026-10-09,bumm3rr,"Poorly Designed Products",PDP
-2026-10-18,Peacethief,"Peacethief Company",PETF
 2026-10-09,RichardP,"Societatem Aedificans",PHSC
 2026-10-09,PHANTOMSPACE,PHANTOM,PH
 2026-10-09,plantay,PLANTEX,PLNX
