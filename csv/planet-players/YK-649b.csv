@@ -2,7 +2,6 @@ date,player,companyName,companyCode
 2026-10-09,Bobzor,"Indentured Servant",1NS
 2026-10-09,Ludwig_Von_Leeb,Ludwig_Von_Leeb_Corporation,4LVL
 2026-10-09,AlphaActual_01,"A_A Holdings",AAH
-2026-10-09,Sweetshare,"AstraCore Industries",ACI
 2026-10-09,MyintMo,"Alcus Electronics",ACUS
 2026-10-09,,"Antares Development Initiative - Norwick",ADIN
 2026-10-09,AGM-114,"AG Micro Systems",AGMS
@@ -21,6 +20,7 @@ date,player,companyName,companyCode
 2026-10-09,Barramiin,"Barra's Projects",BAR
 2026-10-09,xepiov,Blake,BLK
 2026-10-09,BeiDX,BeiMetal,BMTL
+2026-11-08,bolgov,BolgovINC,BOLG
 2026-10-09,Corpse.Brigade,"Bandit Trading Limited",BTL
 2026-10-09,aBillionSamplesOfFlowers,Bunker,BUNK
 2026-10-09,xflqr_,"Carbon enterprise",CAR
@@ -63,6 +63,7 @@ date,player,companyName,companyCode
 2026-10-09,allocater,"Interstellar Gaia",INGA
 2026-10-09,justaperson,"JustAPerson Industries",JAP
 2026-10-09,Nidhoggur929,JellyPomme,JYP
+2026-11-08,kaioh,"K41 Labs",K41
 2026-10-09,Hernanduer,Kalleria,KALL
 2026-10-09,Choody,"Kmart-Blockbuster Mining Corp",KBMC
 2026-10-09,jvaler,Ko-Combine,KCB
@@ -78,7 +79,6 @@ date,player,companyName,companyCode
 2026-10-09,Magican1980,TheMagican1980,M24
 2026-10-09,Mitsuha,"Mitsuha Celestial Industries",MCI
 2026-10-09,marchioro,"March Munchies",MCMC
-2026-10-09,Jebas,Mageris,MIGS
 2026-10-25,Mirrorsymmetry,"Mirror Symmetry Labs",MIRS
 2026-10-09,herpapermoon,"Papership Microtronics",MOON
 2026-10-09,Nuxus342,"Nuxus INC Proxy 342",N342

@@ -8,17 +8,16 @@ date,player,companyName,companyCode
 2026-10-09,alament,"Helix Enterprises",A685
 2026-10-09,dawidbak,"AstroAdios Industries Comapny",AAIC
 2026-10-09,Aestye,"Aestye Industries",AES
-2026-10-09,,Aetheris,AETH
 2026-10-09,,"argus limited",AGSU
 2026-10-09,Airymoon,Airymoon,AIRY
 2026-10-09,Expyrial,"Artifice Stellum",ARST
-2026-10-09,Conquerador,ParallaxMining,AVY
 2026-10-09,babipoki,"Babipoki Industries",BABI
 2026-10-09,SLKLS,"Bergbaugesellschaft Alpha",BBGA
 2026-10-09,KLS,"Bergbaugesellschaft Beta",BBGB
 2026-10-09,,bibubibu,BIBU
 2026-10-09,,Binsong,BINS
 2026-10-09,Bickkert1,"Bickkerts Trading INC",BITI
+2026-11-08,,"Black Jet Investment",BJI
 2026-10-09,,"Blue Cordon",BLCD
 2026-10-09,Podoprigor_Dmitriy,"Чёрный волк",BLWL
 2026-10-09,Thorbo,Bingfly,BNGF
@@ -32,6 +31,7 @@ date,player,companyName,companyCode
 2026-10-09,,Coneptex,CNPX
 2026-10-09,,"Crapco inc",CRAP
 2026-10-09,Cirop,"Cirop Corp",CRCP
+2026-11-08,,AAP-CYZ,CYZ
 2026-10-09,iseesee,"Daybreak Star Enterprises",DBSE
 2026-11-01,Twonkage,DinkDinkIndustries,DDI
 2026-10-09,,"Derakious Inc",DER
@@ -41,12 +41,15 @@ date,player,companyName,companyCode
 2026-10-09,Ktathi,"Doril Enterprises",DRL
 2026-10-09,Jackabatrol,"Draconis Product Corporation",DRPC
 2026-10-18,,大肥鱼工业,DSHI
+2026-11-08,PepeIsLepen,DwarfManufacturing,DWF
+2026-11-08,nbq,ECCCC,ECCC
 2026-10-09,,Ecyta,ECT
 2026-11-01,,"eddie morris-1c",ED1C
 2026-10-18,,EenaPrism,EENA
 2026-10-09,,hyperi,ELAN
 2026-10-09,Forcas,ElectroMeta,ELEM
 2026-10-09,,Emrelikun,EMR
+2026-11-08,,Exprite,EPX
 2026-10-09,illuineru,illuineru,ERUT
 2026-10-09,Espresso0,"Esperito Incorporated",ESPY
 2026-10-09,Boombastic,"Boom Chems",ES
@@ -114,10 +117,8 @@ date,player,companyName,companyCode
 2026-10-09,Denis16_08_rus,От-Че,OCHE
 2026-10-09,SquishyScot,"Squishy Materials",ORE
 2026-10-09,Orbis,Orbis,ORS
-2026-10-09,,pipixel,PIX
 2026-10-09,aleksmolot,"Pokemon Company",POKE
 2026-10-25,Harrison17,POLAR,POLR
-2026-10-09,,lcpro,PROR
 2026-10-09,Pvf,PvFlo,PVF
 2026-10-09,Olit44,"Quebec Food",QCF
 2026-10-09,Absolutno,Quark,QRK
@@ -139,26 +140,21 @@ date,player,companyName,companyCode
 2026-10-09,,SpaceK,SPCK
 2026-10-18,,星际尖峰公司,SPE
 2026-10-09,Lib,SpaceTec,SPTC
-2026-10-09,morial,能力有限公司,SSSR
-2026-10-09,Astaced,"Starseeker Industrys",ST4R
 2026-10-09,Stokovich,"Stock Trading Inc",STOK
-2026-10-09,Promontory,STARK,STRK
 2026-10-09,SP4X,SPXv2,SXX
 2026-10-09,550A-SY-Nth,守夜4th,SY4
 2026-10-09,xalf,"Space Industries",TBF
 2026-10-09,Mr.Satan,"Two Bricks",TBS
 2026-10-09,,The_Company,TCP
-2026-10-09,,al123,TE2
 2026-10-09,floor,"Greenwich TeaHouse",TH
 2026-10-09,anamnesi_a,"Transgalactic Innovation Div",TID
 2026-10-09,Rubicate,"Thinking Machines",TM
 2026-10-09,Hollo,TorIndustries,TOR
-2026-10-09,SummerTea,TeaPartyIndustry,TPI
 2026-10-09,Rhodium,"Tersolar Manufacturing",TRSL
 2026-10-09,realbandit,"The Star Business",TSB
 2026-10-09,totoro001,totoro,TTOT
 2026-10-09,,Vaccaro,VAC0
-2026-10-09,,"East Vandal Company",VAND
+2026-10-09,Beowulf_Chud,"East Vandal Company",VAND
 2026-11-01,,VDLNL,VDLE
 2026-10-09,Vel,"ArcPlant Industries",VEL1
 2026-10-09,ThinkTrout,VELLICHOR,VLKR

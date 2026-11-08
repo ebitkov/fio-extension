@@ -31,9 +31,7 @@ date,player,companyName,companyCode
 2026-10-09,AtlantisRising,"Trident Pushers LLC",AR
 2026-10-09,,test_jala233,ASDF
 2026-10-09,Erisea,"Ashkandia Ltd",ASHK
-2026-10-09,dineshkk689,ADOSS,ASO
 2026-10-09,anranyang,anranyang,AT4
-2026-10-09,,"Artemis Carbon Inc",ATMC
 2026-10-09,Marcke,Atreax,ATX
 2026-10-09,samman119,AAAAA,AX5
 2026-10-09,SierraSpiegel,AziraCorporation,AZI
@@ -61,6 +59,8 @@ date,player,companyName,companyCode
 2026-10-09,CoffeeCupMassacre,"Caffeinated Systems",CAFS
 2026-10-09,BlueHeeler,Coldfire,CAST
 2026-10-18,,CayCon,CAY
+2026-11-08,edwardzlf,C-Corp,CCP1
+2026-11-08,LamPC,"花猫集团 Colorful Cat Co.",CC
 2026-10-09,Pas.deChat,"Cronus Enterprises",CE
 2026-10-09,Chibuike-Kelechi,"Chibuike Farming Corporation",CFCO
 2026-10-09,CrimsonCoder,"Crimson Food Production",CF
@@ -68,6 +68,7 @@ date,player,companyName,companyCode
 2026-10-09,,"Combine Honnête Benten Mercantile",CHBM
 2026-10-09,Surecast,CHOCOLATY,CHCO
 2026-10-09,DrTooke,CHEMCO,CHEM
+2026-11-08,Ma5terchief000,"Chiefly Metals",CHF
 2026-10-09,,"Caliber Industries",CLB
 2026-10-09,ClimaAuto,CLIMA,CLI
 2026-10-09,Akatosh,ClearWater,CLRR
@@ -84,7 +85,6 @@ date,player,companyName,companyCode
 2026-10-09,Zhuzhuz,"Caelus Suidae Sus",CSS
 2026-10-09,Ironaxx,"Crystal Star Technologies",CST
 2026-10-09,,CyAim,CYAM
-2026-11-01,,"Cyanide Steel",CYS
 2026-10-09,Danisko,"Dark Wood",DAN
 2026-10-09,diancibofang,远行星矿业,DCBF
 2026-10-09,iagoDoc,"Docanix Enterprises",DCNX
@@ -101,7 +101,6 @@ date,player,companyName,companyCode
 2026-10-09,,DimaPyp1123,DP11
 2026-11-01,,Dracore,DRAC
 2026-10-09,Dadonha,Drassin,DRA
-2026-10-09,,DirtDiggers,DRDG
 2026-10-09,OmniscientReader,"Spice Lord",DUNE
 2026-10-09,gdSatday,"Dwarven Orbital Works",DWO
 2026-10-09,,"black swan",DXQ
@@ -123,7 +122,6 @@ date,player,companyName,companyCode
 2026-10-09,Ardno,"First Arbor Corporation",FAC
 2026-10-09,FaroucheF,"Faro Inc",FARO
 2026-10-09,Syco3737,"SYCO MANUFACTURER",FCW
-2026-10-09,,DFFFS,FFFS
 2026-10-09,Bluntz,"Fields Fuels",FLDS
 2026-10-09,elric60,FullC,FMA
 2026-10-09,FEDO,"Fedo Metalurgy LLC",FML
@@ -145,6 +143,7 @@ date,player,companyName,companyCode
 2026-10-09,guro.,Liang,GURO
 2026-10-09,H1dd3n,"Hidden Inc",H1DN
 2026-10-09,Barabbas,"Haberdashery Inc",HABE
+2026-11-08,Leathlord,"Halo Metals",HALO
 2026-10-09,Dyson,Haaland,HA
 2026-10-09,ferefes,"Hella Diesel Multi Injector",HDMI
 2026-10-09,Hevlikn,"Hevlikn Industries",HEVI
@@ -163,6 +162,7 @@ date,player,companyName,companyCode
 2026-10-09,huangleiyyds,黄氏集团帝国,HSDD
 2026-10-09,SurvivorBob,"HT Consolidated",HT
 2026-10-09,Anpache,Hexaco,HXC
+2026-11-08,TMarcus68,Infinity23,I23
 2026-10-09,draco00,IBERMETALL,IBM
 2026-10-09,Inforiel,Infocorp,ICU
 2026-10-09,,koaisthegoat,IGUE
@@ -213,6 +213,7 @@ date,player,companyName,companyCode
 2026-10-09,marchioro,"March Munchies",MCMC
 2026-10-09,dragon5069,"MC Manufacturers",MCP
 2026-10-09,,MusMd,MD12
+2026-11-08,MrRedLogan,"Monetary Diversification Fund",MDF
 2026-10-09,ernest666,Andromeda,MEOW
 2026-10-09,Mezzi,Mezzonite,MEZ
 2026-10-09,MartianEngineer,"Martian Engineering Co.",ME
@@ -226,6 +227,7 @@ date,player,companyName,companyCode
 2026-10-09,CoinCrafter23,"Mineral Monopoly Holdings",MMH
 2026-10-09,Mingrody,Mingrody's,MNGY
 2026-10-09,Seacilia,"Blinkmoth Collective",MOTH
+2026-11-08,,MPEKS,MPEX
 2026-10-09,A_Liminal_Snow_Plain,"MetalSlop Ltd",MSLP
 2026-10-09,NeoCGA,"The Matrix",MTRX
 2026-10-09,Shadow01,"Mineral Ventures LLC",MV0
@@ -241,7 +243,6 @@ date,player,companyName,companyCode
 2026-10-09,Albus,Nillui,NIL
 2026-10-09,Nekkar,Nekkar,NKK
 2026-10-18,,"NLD Inc",NLDC
-2026-10-09,,NanoIndustries,NNO
 2026-10-09,Duncanel,"Nova Group",NOVA
 2026-10-09,Egamadeus,"Nekarus Research Corporation",NRC
 2026-10-09,noturjedi,noturjedi,NUJ
@@ -271,6 +272,7 @@ date,player,companyName,companyCode
 2026-10-09,Seran,ProgyCore,PRYC
 2026-10-09,Baskingner,"Pskov Inc",PSK
 2026-10-09,Belladonna,"Pantheon Corporation",PTH
+2026-11-08,Grimrok,Pentagon,PTN
 2026-10-09,alxnns,Patricorp,PTRC
 2026-10-09,EyangKodok,"PT Baja Abadi",PT
 2026-10-09,WJZD,q1777,Q177
@@ -280,7 +282,6 @@ date,player,companyName,companyCode
 2026-10-09,Pomme_de_Terroriste,"QUALITY PINTS",QP
 2026-10-09,Absolutno,Quark,QRK
 2026-10-09,Ridiq,"Quantum Manufactorum",QUMA
-2026-10-09,banker,A1_anfang,QWE
 2026-10-09,Flinter,"Ravens Den",RAV
 2026-10-09,,RECK75,REC7
 2026-10-09,Erendrake,Redwind,RED
@@ -326,7 +327,6 @@ date,player,companyName,companyCode
 2026-10-09,marshmallows72,"SM limited",SML
 2026-11-01,,SnaggleCo,SNAG
 2026-10-09,MirAi1201,三河农业股份有限公司,SNG
-2026-10-09,CeciliaAlcott,Suzumiya,SOS
 2026-10-09,KaiserZero,"Space X",SPCX
 2026-10-09,Spazmus,SPAZ-TECH,SPT
 2026-10-09,LucaTrulyworth,"Señor Ricky's Matcha Hut",SRMH
@@ -392,11 +392,9 @@ date,player,companyName,companyCode
 2026-10-09,Kioshi,WhimsyInterstellar,WHY
 2026-10-09,CptWaffles,Waffles.inc,WINC
 2026-10-09,walkerftw,Walkerco,WLK
-2026-10-09,,"Warpander Industries",WPIS
 2026-10-18,,qzsqzs,WQQ
 2026-10-09,Galadene,Galadene,WSW
 2026-11-01,Crobit,WaterFields,WTF
-2026-10-09,memTJ,WaterKing,WTRK
 2026-10-09,Pelayo_Asturias,Wuxia,WUX
 2026-10-09,elemir,"White Water",WW
 2026-10-09,,蔚迅商业帝国,WXE

@@ -23,6 +23,7 @@ date,player,companyName,companyCode
 2026-10-09,Robofloof,"Antares Intelligent Tech",AIT
 2026-11-01,,"Antares Jazz",AJAZ
 2026-10-09,,"Alcaris Manufacturing",ALMU
+2026-11-08,AstroTug,AstonMiningCorp,AMCP
 2026-10-09,Anxuiz,"Amp Partners",AMP
 2026-10-09,ANormalHuman,ANormalConstructionCO,ANCO
 2026-10-09,Spex,"Thunder Prodcution",AND1
@@ -44,9 +45,9 @@ date,player,companyName,companyCode
 2026-10-09,SabLink,"Toha Heavy Industries",B844
 2026-10-25,,"Badger Incorporated",BADG
 2026-10-09,evayoo,"Burger Bus",BAD
-2026-10-09,,"Bald Corp",BALD
 2026-10-09,,Bradley,BDC
 2026-10-09,EnragedTribble,"Burnflux Cartel",BFXC
+2026-11-08,,Bhagavad,BGV
 2026-10-09,Physigist,"Banecroft-Hoffman Enterprises",BHE
 2026-10-09,Magus777,"BIO Landwirtschaft",BIO7
 2026-10-09,xepiov,Blake,BLK
@@ -58,7 +59,6 @@ date,player,companyName,companyCode
 2026-10-25,,bOREing,BORE
 2026-10-09,HongLJ,BeiPower,BPER
 2026-10-09,,"Bee Productions",BPI
-2026-10-09,,Bwpngt,BPT
 2026-10-25,,BloodyCorp,BRUK
 2026-10-09,jbuzza,"Busby Pty Ltd",BSBY
 2026-10-09,Wildgardener,Buildtech,BTEC
@@ -70,19 +70,21 @@ date,player,companyName,companyCode
 2026-10-09,Cobby,"Cobby Industries",CBY
 2026-10-09,CC30-CN,萱草花实业,CC30
 2026-10-09,CC30CN,萱草花实业CC,CCCX
-2026-11-01,,"The Cul-De-Sac",CDS
+2026-11-01,htAngryFace,"The Cul-De-Sac",CDS
 2026-10-09,,"Cheese Foundaries",CHZE
 2026-10-09,,"Cmenot Industries",CME
 2026-11-01,,candy,CND
 2026-10-09,Andy97,Cygnus,CNS
 2026-10-09,CoolAir,CoolAir,COAR
 2026-10-09,Ogrebeef-Backkicker,Cornucopix,COPI
+2026-11-08,,CoreStrata,COR3
 2026-10-09,x86Cow,"Cow Industries",COW
 2026-10-09,Onun73,COPX1,CPX
 2026-10-09,shakk,"Carboneum Deimos",CRBD
 2026-10-09,amessiah,Ciscular,CSLR
 2026-10-09,,CeteraInk,CSS4
 2026-10-09,KZ_Kawasaki,"Canadian Tire and Ammo",CTIR
+2026-11-08,,R3n3wal,CTSN
 2026-10-09,,CoroTex,CTX
 2026-10-09,mast3rd3mon,"Cypher Industries",CYPH
 2026-10-09,,"Chen YiWen Industries",CYW
@@ -94,13 +96,13 @@ date,player,companyName,companyCode
 2026-10-09,MrD1sgrace,"Disgraced Hub",DHUB
 2026-10-09,MattSpenson,"Delta Interstellar Corp",DLT
 2026-10-09,,DUCHEE,DMF
+2026-11-08,,Dimsum,DMS
 2026-10-09,DonakoInc,"Donako Inc",DOI
 2026-10-09,,DOTPARK,DOT1
 2026-11-01,cristiandrack,DrackLogistics,DRLG
 2026-10-25,,"A Solid Company",DSFG
 2026-10-09,Laaxus,"DeepSpace Technologies",DST
 2026-10-09,davedtr,davedtr,DTR
-2026-10-25,,"Desmoulin Ventures",DVS
 2026-10-09,,"Dwarven Smithing Inc",DWRF
 2026-10-09,,Dzeio,DZIO
 2026-10-09,Sprinix,"Evil Carp",ECAR
@@ -129,7 +131,9 @@ date,player,companyName,companyCode
 2026-10-09,dr4co,"Fortuna Foundation",FORT
 2026-10-09,,ForPa,FPA
 2026-10-09,MrYellow,"Far Reach Energy",FRAC
+2026-11-08,Aleeee0710,"FRANCO Cartagena",FRCT
 2026-10-09,Ragadais,Farnheit,FRNH
+2026-11-08,,FireSPV,FSPV
 2026-10-09,Fluffy2001,"Fluff Supplies",FSUP
 2026-10-09,ivesen,"fluffy tails co",FTC
 2026-10-09,Fleetwood,"Fleetwood Industries",FW23
@@ -139,6 +143,7 @@ date,player,companyName,companyCode
 2026-10-09,Ryctor,"Guiding Hand Industries",GHI
 2026-10-09,vandevyverex,"goofball INC",GIN
 2026-10-09,Swatacular,GlowyStone,GLOW
+2026-11-08,,"Gamma Dynamics",GMD
 2026-10-09,greyhawk,"Grey's Minerals",GRMS
 2026-10-09,GildedRose,"The Gilded Rose",GR
 2026-10-09,stosXri,"Satisfation Inc",GSXR
@@ -158,6 +163,7 @@ date,player,companyName,companyCode
 2026-10-09,lauchy_luke,"Holmium Metals INC",HMI
 2026-10-09,HRESS,"Holy Roman Empire Office",HREO
 2026-10-09,SurvivorBob,"HT Consolidated",HT
+2026-11-08,,Howlers,HWL
 2026-10-09,opie,"Hyper Wedge",HW
 2026-10-09,,"HY Manufacturing Tech",HYM
 2026-10-09,Tu_chino,HHZHAUNG,HZA
@@ -173,8 +179,6 @@ date,player,companyName,companyCode
 2026-10-18,,"IMPERIUM ENGINEERING",IMPL
 2026-10-09,Titch.Industries,Titch,INDI
 2026-10-09,allocater,"Interstellar Gaia",INGA
-2026-10-09,,"INTERSTELLAR CALORIC",INTC
-2026-10-25,,INNOVERSIA,INVS
 2026-10-09,OUQUO,"Interplanetary Q Vision",IQV
 2026-10-09,Aaron987,IronVein,IV14
 2026-10-09,,"J1P Industries",J1P
@@ -182,6 +186,7 @@ date,player,companyName,companyCode
 2026-10-09,,JenkemJerryInc,JJI
 2026-10-09,,he11loworld,JK10
 2026-10-09,JRs.,九日工业集团,JRS
+2026-11-08,JuliusDerErbauer,"Erbauer Inc",JULS
 2026-10-09,Hernanduer,Kalleria,KALL
 2026-10-09,stabbyfork,KaseKorp,KASE
 2026-10-09,Choody,"Kmart-Blockbuster Mining Corp",KBMC
@@ -191,14 +196,13 @@ date,player,companyName,companyCode
 2026-10-09,Lodrar,Kekkocorp,KKEK
 2026-10-09,,jjjjj,KKKK
 2026-10-09,omoeTomoe,Kunagisa,KNGS
-2026-10-09,,"Kirk INC",KRKC
 2026-10-09,kurarododendron,kurarodzi,KRRD
 2026-10-09,,"Krytenton Mercantile",KRY
 2026-10-09,Ttay3574,KyberDyne,KYDY
+2026-11-08,,"Limbus Company",LBSC
 2026-10-09,LazySiege,LazyCorp,LC
 2026-10-09,Lekvarky,"Lekvar Inc.",LEK
 2026-10-09,,"Leonhart Inc",LEOI
-2026-10-25,alexevier,"Lex and Lex",LEXC
 2026-10-09,AriesNation,"Lunar Forge",LF
 2026-10-09,No.9,"Life Protocol",LIF
 2026-10-09,Poddsch,"Liquid Gold",LIGO
@@ -226,7 +230,6 @@ date,player,companyName,companyCode
 2026-10-18,47VEX,"METCOR Industries",METI
 2026-10-09,Mogar,"Mogar Corp",MGRC
 2026-10-09,,MakeItCount,MITC
-2026-10-09,TENET,SIGMA,MKFC
 2026-10-09,Tomaskrysa,Makecorp,MKR
 2026-11-01,,"Another Mulligan",MLG
 2026-10-09,mangus7,"Maverick Ltd",MLT
@@ -245,8 +248,10 @@ date,player,companyName,companyCode
 2026-10-09,,"Nordic Goods",NDG
 2026-10-09,RiseofFilth,"Non-Refundable Industries",NFUN
 2026-10-09,Nirces,"NIRCo 2",NIRC
+2026-11-08,,NoelINC,NLE
 2026-10-09,andy_Foxtrot,"New Martian Manufacturing Corp",NMMC
 2026-10-09,DarrenWebber,Newton17,NRST
+2026-11-08,,"Nova Pioneers",NVP
 2026-10-09,,NexusCorp,NXSS
 2026-10-09,HuajiSama,奥比斯客户协同社,OBCS
 2026-10-09,Okawari,OCORP,OCC
@@ -256,20 +261,17 @@ date,player,companyName,companyCode
 2026-10-09,Toposo,Topo27,OP2
 2026-10-09,AsmDemon,Originators,ORGN
 2026-10-09,Nexfortisme,"Orion Mineral and Metal Ex",ORMX
-2026-10-09,,"Orbital Space",ORSP
 2026-10-09,,DD-OZZO,OZZO
-2026-10-25,,"Les blés de l'Ouest",PAIN
 2026-10-09,CaWiBa,"Phobos Carbon Farmers Corp",PCFC
 2026-10-09,PiBoy314,"Pi Corporation",PC
 2026-10-09,jcheung9941,"Poor Decisions Co",PDC
 2026-10-09,Pariwat,PELLINGTON,PELL
-2026-10-09,AmadeusVk,"Pennen Inc",PENC
 2026-10-09,,"Phobos Forge Industries",PFI
 2026-10-09,,"Phobos Engineering Consortium",PHEC
 2026-10-09,,"Phobos Industries",PHI
 2026-10-09,PHANTOMSPACE,PHANTOM,PH
-2026-10-09,fgaa,"Proton Industry Intiative",PII
 2026-10-09,Plak,PlakRocks,PLAK
+2026-11-08,,"PLED Co",PLCO
 2026-10-09,plantay,PLANTEX,PLNX
 2026-10-09,geporune,"Pioneer Manufacturing Co-op",PMC
 2026-10-25,,paint,PNT
@@ -280,13 +282,11 @@ date,player,companyName,companyCode
 2026-10-09,Baskingner,"Pskov Inc",PSK
 2026-10-09,FatsoMatso,Puquu,PUQ
 2026-10-09,q17916,qqipa,Q17
-2026-10-09,ukisir,Qijie,QJG
 2026-10-09,,"Quantum Pulse Inc",QPL
 2026-10-09,lu1098601030,"QT Interplanetary Corp",QTA
 2026-10-18,,"QualiTech Engineering",QTE
 2026-10-09,Ravve,Rampany,RAMP
 2026-10-09,THE_TREE_RBOP,"RBOP INC",RBFI
-2026-10-09,,"Ragebeat Inc",RBIC
 2026-10-09,DeafJaeger,"RC Refordia 7",RCR7
 2026-10-09,,ketal,RESA
 2026-10-09,Keelwright,"Riftkeel Yards",REY
@@ -314,10 +314,10 @@ date,player,companyName,companyCode
 2026-10-09,,SexoJuggoso,SEXJ
 2026-10-09,Thadeausmaximus,"Super Foods General Store",SFGS
 2026-10-09,Rivie,"Shah Gale Solutions",SGS
+2026-11-08,,s03h08,SH8
 2026-10-09,Lanshara,SharaMetal,SHM1
 2026-10-09,SFScorpio,Skyprod,SKYP
 2026-10-09,FUC_Prozer,"Star Lift Propulsion",SLPP
-2026-10-09,Arllpha,Shimafura,SMFR
 2026-10-09,detsalb,"Seth metalergies inc",SMI
 2026-10-09,SmallDick,"Small Dicks Incorporated",SMOL
 2026-10-09,,"Senaam LD",SNAM
@@ -326,7 +326,6 @@ date,player,companyName,companyCode
 2026-10-09,Spark_Chaser,SparChaser,SPCH
 2026-10-09,,Sparko,SPRK
 2026-10-09,Aem,"Sustained Reborn",SR
-2026-10-09,,"Sic Sand Fev Vir",SSFF
 2026-10-09,Makinamy,"Seres Space Sci Tech Corp",SSST
 2026-10-09,,"Star Dreams Corp",STDC
 2026-10-09,sidepipe,"Short Term Grains Ltd",STGL
@@ -336,7 +335,6 @@ date,player,companyName,companyCode
 2026-10-09,,"Surv Industries",SUIN
 2026-10-09,Supreme_Overlord,SupremeDynamics,SUP
 2026-10-09,Brickmania,Svarog火神重工,SVAR
-2026-10-09,Ciege7041,ShadowFrame,SWFE
 2026-10-18,,"Setthoway Logistics",SWL
 2026-10-09,Harlan,SiliconXPrime,SXP
 2026-10-09,gyro.py,"Syrical Industries",SYRI
@@ -348,10 +346,10 @@ date,player,companyName,companyCode
 2026-10-09,TimurOm,T-Const,TCT
 2026-10-09,Morgue,KarbonTech,TDB2
 2026-10-09,,"Tide Breaker Industries",TDB
-2026-10-09,,TetoRex,TERE
 2026-10-09,TuffyLess,TuffGooDz,TGD
+2026-11-08,,"Tough Ground Productions",TGP
 2026-11-01,,"The ASML Conglomerate",THAC
-2026-10-25,,RandomCompany,THER
+2026-11-08,,Theseemmm,THES
 2026-10-09,,"Tidal Corp",TIDE
 2026-10-11,,TestKompany,TKMP
 2026-10-09,Tanaba,Tiilaris,TLRS
@@ -370,14 +368,14 @@ date,player,companyName,companyCode
 2026-10-09,rain9441,"Universal Reserve",UR
 2026-10-09,0xTheConsultant,"Veilside Industries",VEIL
 2026-10-09,MrSmith33,VacFactory,VF33
+2026-11-08,mcksycr,"Vanguard Fabrication",VGF
 2026-10-09,,维多利亚3,VIA
-2026-10-09,youcef,youcef,VIN
 2026-10-09,LoftyVolaterrae,Volaterrae,VOL
-2026-10-09,D3DR3X,VanguardPetrochem,VPIS
 2026-10-09,KStam,Vitae,VTA
 2026-10-09,Emperyan,"Venturi Metals",VTRI
 2026-10-09,Laichonious,"Foxfire Carbonization",VVC
 2026-10-09,Theman83554,Warpseam,WARP
+2026-11-08,,"New world",WBR
 2026-10-09,Revenantus,WardBox,WB
 2026-10-09,Werevka,Werevka-AEP,WER0
 2026-10-09,Murgle64,"Wicked Industries",WICK

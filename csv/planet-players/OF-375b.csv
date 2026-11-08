@@ -10,7 +10,6 @@ date,player,companyName,companyCode
 2026-10-09,Ajitama,AjiTorch,AJI
 2026-10-09,Soltrac,"Almadraba Prod",ALMA
 2026-10-09,DarkerThanBlack,Alquio,ALQ
-2026-10-09,alexander1375,"AL Industries",ALV
 2026-10-09,AlexiPetrikov,"ALXI AGRICULTURE",ALXR
 2026-10-09,xStitchx,"Amaterasu Biotech",AMBT
 2026-10-09,Kayashi,"Apex Hydrocarbon",APHC
@@ -33,6 +32,7 @@ date,player,companyName,companyCode
 2026-10-09,LamPC,"花猫集团 Colorful Cat Co.",CC
 2026-10-09,Pas.deChat,"Cronus Enterprises",CE
 2026-10-09,Corriild,"Corriild Farming AG",CFA
+2026-11-08,Cloverblood,CLOVERBLOOD,CLOV
 2026-10-09,jahomelgar,BINARK,COD1
 2026-10-09,XaviSaiyan,"Composite Organic Kompany",COK
 2026-10-09,Ogrebeef-Backkicker,Cornucopix,COPI
@@ -72,6 +72,7 @@ date,player,companyName,companyCode
 2026-10-09,reddead_solo,Gingerstan,GG
 2026-10-09,flyjosh,"green mining",GMI
 2026-10-09,gepitis,GEP-OFFICE,GPO
+2026-11-08,Greed_Incorporated,"Greed Incorporated",GREI
 2026-10-09,Thohorn,"Grunn Resources",GRS
 2026-10-09,elections7,GrowTrade,GTEW
 2026-10-09,guro.,Liang,GURO
@@ -90,7 +91,6 @@ date,player,companyName,companyCode
 2026-10-09,yosakurahk,jiangchaohongyue,JCHY
 2026-10-09,CoronaX,大鸟转转矿业公司,JJZZ
 2026-10-09,MLION,"Valhalla's Table",JJ
-2026-10-09,Kaeriri,"Kae corporation",K247
 2026-10-09,Kahdarin,KAHDARIN,KAH
 2026-10-09,Kamelhamelha,Kamelo,KAM
 2026-10-18,Opwoa,Krugg,KGG
@@ -128,6 +128,7 @@ date,player,companyName,companyCode
 2026-10-09,Ablabla,"Organic Baselines",OBL
 2026-10-09,Roujo,"Oceanside Laboratories",OLMM
 2026-10-09,mrmaxpower,OMNICORP,OMNI
+2026-11-08,Orks,"Orks Co",ORKS
 2026-10-09,nomadhunter,Oortio,ORT
 2026-10-09,Oteador,"Oteador Productions",OTP
 2026-10-09,Paper-Accept,Paper,PAA
@@ -159,6 +160,7 @@ date,player,companyName,companyCode
 2026-10-09,Pirogil,"Spire Dynamics",SDY
 2026-10-09,saigo,"SAIGO Enterprises",SE
 2026-10-09,Syrim,"StarForge Materials",SFM
+2026-11-08,Shrewdsun1,ShrewdFarms,SFRM
 2026-10-09,deepspace-,"space global",SGB
 2026-10-09,void_shelby,"shelby company limited",SHB
 2026-11-01,DeposeE,Franco,SIRE
@@ -181,8 +183,9 @@ date,player,companyName,companyCode
 2026-10-09,Toothcrush,"Tooth Inc",THIN
 2026-10-09,floor,"Greenwich TeaHouse",TH
 2026-10-09,ThomasJun,"ThomasJun Eng",TJ
+2026-11-08,PaulyK14,"The Metal Company",TMC1
 2026-10-09,BlueOrange,"Transparent Motives Inc",TMI
-2026-10-09,tiesvl,"tvl constructions",TVL
+2026-11-08,Tsukoshizo,Tsukishizo,TSK
 2026-10-09,Gavin7777,TheMatrix,TYTY
 2026-10-18,macacocaco,"Voidsteel Consortium",VCM
 2026-10-09,KyZekk,"Void Dragon Logistics",VDL

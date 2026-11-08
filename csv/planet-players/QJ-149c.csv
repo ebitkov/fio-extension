@@ -33,7 +33,7 @@ date,player,companyName,companyCode
 2026-10-09,xflqr_,"Carbon enterprise",CAR
 2026-10-09,PortableCorpse,"Cathartes Industries",CATI
 2026-10-09,allen296,"Warcoal Corp",CCW
-2026-10-18,,CoreDynamics,CDY
+2026-10-18,CoreDynamics,CoreDynamics,CDY
 2026-10-09,Corriild,"Corriild Farming AG",CFA
 2026-10-09,_sashkaa,"Carbon-Free Carbon",CFC
 2026-10-09,vee_prime,Conglomerate,CNG
@@ -46,6 +46,7 @@ date,player,companyName,companyCode
 2026-10-09,Epiccrystal,"Eden Initiative",EDIN
 2026-10-09,Chicken_Man,"Exodus Intersolar",EXIS
 2026-10-09,skiedude,Extraction,EX
+2026-11-08,,aif01,F001
 2026-10-09,Ferrous,"Ferrous Industries",FERI
 2026-10-09,CdGuri22,"Femboy Farms N Furnace",FMBY
 2026-10-09,Hal98,"Friendly Metals",FM
@@ -123,6 +124,7 @@ date,player,companyName,companyCode
 2026-10-09,Baskingner,"Pskov Inc",PSK
 2026-10-09,halcyon_dot_exe,Purplecritters,PURP
 2026-10-09,Phoenixtfg,"Phoenix Galactic Industries",PXG
+2026-11-08,ml22,哈吉米集团,QDL
 2026-10-09,LionelCat,LionelCat,QFT7
 2026-10-09,Pomme_de_Terroriste,"QUALITY PINTS",QP
 2026-10-09,JeallyRabbit,"Rabbit INC",RAB
@@ -142,7 +144,6 @@ date,player,companyName,companyCode
 2026-10-09,SFScorpio,Skyprod,SKYP
 2026-10-09,Tanda,"Silent Running",SN
 2026-10-09,Aem,"Sustained Reborn",SR
-2026-10-09,Prassiacaesar,"Silver Sierra Resources",SSRS
 2026-10-09,startube,"Star_Tube Ind",STI
 2026-10-09,TheProton,SubAtomic,SUBA
 2026-10-09,Hiver,"Hive Swarm",SWRM

@@ -1,4 +1,5 @@
 date,player,companyName,companyCode
+2026-11-08,Bobzor,"Indentured Servant",1NS
 2026-10-09,Friend_Computer,"Alpha Complex",ACOM
 2026-10-09,GeneralZ,Ascensus,ACS
 2026-10-09,AGM-114,"AG Micro Systems",AGMS
@@ -92,6 +93,7 @@ date,player,companyName,companyCode
 2026-10-09,Stonk,"Space Crafting Industries",SCIN
 2026-10-09,saigo,"SAIGO Enterprises",SE
 2026-10-25,Shrewdsun1,ShrewdFarms,SFRM
+2026-11-08,missingquasar,"Sindrian Refining LLC",SINR
 2026-10-09,Vash5222,Iskra,SKRA
 2026-10-09,SFScorpio,Skyprod,SKYP
 2026-10-09,MapReduce,"Soletta Engineering",SLE
@@ -110,3 +112,4 @@ date,player,companyName,companyCode
 2026-10-09,CptWaffles,Waffles.inc,WINC
 2026-10-09,McCowen,"Xenos Logistics",XL
 2026-10-09,Neth_Havoc,ExoSpace,XOS
+2026-11-08,YukiAlado,YukiCorp,YKC
