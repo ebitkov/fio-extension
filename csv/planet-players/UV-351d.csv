@@ -1,5 +1,6 @@
 date,player,companyName,companyCode
 2026-10-09,AlphaActual_01,"A_A Holdings",AAH
+2026-11-15,nondescript,Abubahchi,ABB
 2026-10-09,Alpinelord,"Alpine Corp",APC
 2026-10-09,BahaRuinsEverything,"Baha's Ruined Stuff",BAHA
 2026-10-09,GeneralConsensus,Badsoil,BAS
@@ -7,7 +8,6 @@ date,player,companyName,companyCode
 2026-10-09,Wildgardener,Buildtech,BTEC
 2026-10-09,BlueHeeler,Coldfire,CAST
 2026-10-09,CrimsonCoder,"Crimson Food Production",CF
-2026-10-09,Siedlerle,"Dark Star",DAST
 2026-10-09,dev3l,DEV3l,DV3L
 2026-10-09,Ehyeh_Asher,"EY3 AM",EY3
 2026-10-09,Bluntz,"Fields Fuels",FLDS
@@ -26,6 +26,7 @@ date,player,companyName,companyCode
 2026-10-09,NeoCGA,"The Matrix",MTRX
 2026-10-18,SearchingLearner,"Maverick Industries",MVKI
 2026-10-09,o0nasser0o1,nasser,NASS
+2026-11-15,,Not-Enough,NEXT
 2026-10-09,TAfirehawk,"New Heights",NHI
 2026-10-09,Niknik67,"NIKNIK's Co",NIK
 2026-10-09,nimahigh,nimahigh,NIMA
@@ -39,10 +40,8 @@ date,player,companyName,companyCode
 2026-10-09,sommgaii,"Snek n Lerdr",SNL
 2026-10-09,SpeedRanger,"SPACE RANGER RESOURCES",SRR
 2026-10-09,ndkid,"Synergy Solutions Inc",SSI
-2026-10-09,Trundorn,TrunCorp,TCA
 2026-10-09,Latro,Teractor,TERA
 2026-10-09,Hollo,TorIndustries,TOR
 2026-10-09,Doruben,"Wet Work",WEWO
 2026-10-09,ihelp,wehelp,WH1
-2026-10-09,Zadexx,"Zadex Inc",ZINC
 2026-10-09,ozgott,ZenWi,ZWI
