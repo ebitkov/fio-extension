@@ -50,6 +50,7 @@ date,player,companyName,companyCode
 2026-10-09,Sven_Grey,GreyCorp,GREC
 2026-10-09,GildedRose,"The Gilded Rose",GR
 2026-10-09,Barabbas,"Haberdashery Inc",HABE
+2026-11-23,Leathlord,"Halo Metals",HALO
 2026-10-09,Rhymelite,"Hayashida Fray Holding",HFH
 2026-10-09,SanityCat,"High Frontier Enterprises",HF
 2026-10-09,Quicksolv,"Sun Industries",HG
@@ -74,7 +75,6 @@ date,player,companyName,companyCode
 2026-10-09,lampr,"lamp corp",LMPR
 2026-10-09,Draistis,"Lyons-Orion Carbon Operations",LOCO
 2026-10-09,Lovi,LOVI-INDUSTRIES,LOVI
-2026-10-09,Hool,LSD-LTD,LSDL
 2026-10-09,Freeloader,ECOLUNG,LUNG
 2026-10-09,Magican1980,TheMagican1980,M24
 2026-10-09,Mitsuha,"Mitsuha Celestial Industries",MCI
@@ -100,7 +100,6 @@ date,player,companyName,companyCode
 2026-10-09,DeafJaeger,"RC Refordia 7",RCR7
 2026-10-09,huotianxiahu,RocketLeague,RLCN
 2026-10-09,KatAnna,"Reckless Logistics",RLOG
-2026-10-18,DrTyny,"Red Panda Synergy",RPSY
 2026-10-09,RNGzero,"RoadRunner Beep Beep LLC",RRBB
 2026-10-09,ZeroSilver,RestIndustrial,RSL
 2026-10-09,Gavano,Rumination,RUMI

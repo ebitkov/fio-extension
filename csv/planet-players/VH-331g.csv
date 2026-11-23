@@ -2,6 +2,7 @@ date,player,companyName,companyCode
 2026-10-09,Suskueve,Eveshun,3V3
 2026-10-09,Evildog,"Dane Cooperative",A18
 2026-10-09,mooninrain,April,A4
+2026-11-23,abinnongchang,abinfarming,ABF
 2026-10-09,mas_ganendra,"Accra Pte Ltd",ACRA
 2026-10-09,GeneralZ,Ascensus,ACS
 2026-11-08,shuimu,Agri-Corp,ACZ
@@ -46,6 +47,7 @@ date,player,companyName,companyCode
 2026-10-09,WilhelmL,BoneAsh,BEAH
 2026-10-09,Goudale,"Beer Distribution Company",BEER
 2026-10-09,lilbeastmode2012,"Beast Farming",BEFA
+2026-11-23,Shinas,BioHarvest,BHT
 2026-10-09,BIGJIGE,nongchangzhu,BIGJ
 2026-10-09,Graeth,"Big Illusory Retirement Dreams",BIRD
 2026-10-09,Jaffa,Weyland,BL7
@@ -86,7 +88,9 @@ date,player,companyName,companyCode
 2026-10-09,Cirop,"Cirop Corp",CRCP
 2026-10-09,Nicholas099,"Ceres Provisions",CRSP
 2026-10-09,geckoman,"Caspian Charter",CSP
-2026-11-15,,"KLX Industries",CUM
+2026-11-15,klx,"KLX Industries",CUM
+2026-11-23,BeoCZ,"CYLON Enterprises",CYE
+2026-11-23,Lazenander,Cynchronous,CYNC
 2026-10-09,Academic.Master,大力丸集团,DALI
 2026-10-18,ztaylor16,"Darkstar Divisions",DARK
 2026-10-09,NOVAPRIME,DANTE,DAT
@@ -173,7 +177,6 @@ date,player,companyName,companyCode
 2026-10-09,,何忆卫何以卫,HYW
 2026-10-09,Blint,"ICARUS Enterprises",ICAE
 2026-10-09,Ined,"Served Ice Cold",ICED
-2026-10-09,Ice_maple_syrup,Ice_maple_syrup,ICEY
 2026-10-09,sibe32,IceCandy,ICE
 2026-10-09,Feddtoni,"Infinty Control",ICT
 2026-10-09,TartarusMkII,"Imperian Logistics",IMP
@@ -206,10 +209,8 @@ date,player,companyName,companyCode
 2026-10-09,lighroy,YH2947,LIGH
 2026-10-25,KrisWolfe,"The Lemmings",LMM
 2026-10-09,Candan,"Lost Acres",LOST
-2026-10-09,Lepard,Lepard,LRD
 2026-10-09,LRT,LRTTTT,LRT
 2026-10-09,--SCHAITR--,"Lumerz LLP",LUME
-2026-10-09,,gryphon,LUX3
 2026-10-09,Coldrain,"Lux Perpetua",LUXP
 2026-10-09,MysteriousWalrus,"Citrus Export Syndicate",LYME
 2026-10-09,Lyhroi,LyhTech,LYTE
@@ -247,6 +248,7 @@ date,player,companyName,companyCode
 2026-10-09,Nakohnen,"NAK Cooperation",NKC
 2026-10-09,nanny,"Nanny Co-op",NNY
 2026-10-09,AnybodysAdvocate,NozCo,NOZ
+2026-11-23,_radovan,"New Path Farm",NPF
 2026-10-09,DarrenWebber,Newton17,NRST
 2026-10-09,HurricaneMetal,"Norvinsk-Terra Indust Group",NTHI
 2026-10-09,noturjedi,noturjedi,NUJ
@@ -283,7 +285,6 @@ date,player,companyName,companyCode
 2026-11-08,PeoplesRepublic,"Proletarian Stellar Republic",PPSR
 2026-10-09,Procur,Procur,PR0
 2026-10-09,Ravick,Prodigus,PROG
-2026-10-09,Matematico2002,Pitagoras,PTGR
 2026-10-09,Belladonna,"Pantheon Corporation",PTH
 2026-11-01,HushPup,PupCo,PUP
 2026-10-09,BallPython2727,"Python Industries",PYTH
@@ -301,7 +302,6 @@ date,player,companyName,companyCode
 2026-10-09,Rinoic,"Rinoic Industries",RINI
 2026-10-09,REALMRAKER,"Realm Raker",RKR
 2026-10-09,RenaultMograine,RenaultMograine,RNMG
-2026-10-09,THoes,Robustmore,ROB
 2026-10-09,RogelTheMerchant,"Rogel Mercantile",ROGM
 2026-10-09,Vention,"Rankin Operations Group",ROG
 2026-10-25,Hardin,"Rotten Food Collective",ROLF
@@ -361,7 +361,6 @@ date,player,companyName,companyCode
 2026-10-11,Terry001,Terry,TERY
 2026-10-09,Akyuu,三角能源科技,TET
 2026-10-09,Tumble_,"Tumble Foods and Crafts",TFAC
-2026-10-09,tu1nkers,"the food farmers united",TFFU
 2026-10-09,W.M,泰拉星际集团,TG00
 2026-10-09,Toothcrush,"Tooth Inc",THIN
 2026-11-08,Berryasshot,TheCompany,THP
@@ -371,7 +370,6 @@ date,player,companyName,companyCode
 2026-10-09,Ctao,Ctaoo,TMM
 2026-10-09,Rubicate,"Thinking Machines",TM
 2026-10-25,Ziachu,Tenuta,TNA
-2026-10-09,Tozany,TODRI,TODR
 2026-10-09,Tomekk1985,TGmbH,TOM
 2026-10-09,Tinyton,"Tiny Plant Corp",TPLC
 2026-10-09,martinc1194,"TREE Company",TREC

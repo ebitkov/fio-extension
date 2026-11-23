@@ -12,8 +12,6 @@ date,player,companyName,companyCode
 2026-10-09,LancerCaster,"Aegis Orion II",AO2
 2026-10-09,Archiel,"Archiel Industries",ARCL
 2026-10-09,Aldanis,"Argo Astronautics",ARGO
-2026-10-09,brockoli,"Aspen Industries",ASPN
-2026-10-09,AsuraBoi,"Asuran Trading Initiative",ASTI
 2026-10-09,Paulus_Von_Atreides,Atridas,ATRD
 2026-10-09,Togo,"Aurum Galactic",AUG
 2026-10-09,atyopsis,"Axiom Labs",AXL
@@ -37,7 +35,6 @@ date,player,companyName,companyCode
 2026-10-09,Corriild,"Corriild Farming AG",CFA
 2026-10-09,_sashkaa,"Carbon-Free Carbon",CFC
 2026-10-09,vee_prime,Conglomerate,CNG
-2026-10-09,aledujke,"Crucible Dynamics",CRDY
 2026-10-09,Lazenander,Cynchronous,CYNC
 2026-10-09,delroth,delroth,DELR
 2026-10-09,shemphys,DonMiguel,DMG
@@ -61,6 +58,7 @@ date,player,companyName,companyCode
 2026-10-09,Sven_Grey,GreyCorp,GREC
 2026-10-09,Gregimus,"Greg Corp",GRG
 2026-10-09,guro.,Liang,GURO
+2026-11-23,Leathlord,"Halo Metals",HALO
 2026-10-09,Roche,"Martian Medical",HEAL
 2026-10-09,Rhymelite,"Hayashida Fray Holding",HFH
 2026-10-09,SanityCat,"High Frontier Enterprises",HF
@@ -98,6 +96,7 @@ date,player,companyName,companyCode
 2026-10-09,Grimdelicious,"Metals and Materials LLC",META
 2026-10-09,MevNav,"Mevari Corp",MEV
 2026-10-09,Pizzzaaa,"Magnetic Holdings",MHC
+2026-11-23,Mirrorsymmetry,"Mirror Symmetry Labs",MIRS
 2026-10-09,MOMIJI,"MOMIJI Fueling",MMJ
 2026-10-11,MatthewTheMindful,"Mindful Inc",MNFL
 2026-10-09,herpapermoon,"Papership Microtronics",MOON
@@ -141,6 +140,7 @@ date,player,companyName,companyCode
 2026-10-09,caskman,"Ftori Cooperative",RYSN
 2026-10-09,rzuraf,"rzf industries",RZF
 2026-10-09,Stahlbrand,"Stahlbrand Minerals",SBMN
+2026-11-23,,"Strike Force Ultra",SFU
 2026-10-09,Rivie,"Shah Gale Solutions",SGS
 2026-10-09,Shihido,ShihidoCore,SHCO
 2026-10-09,SFScorpio,Skyprod,SKYP
@@ -165,7 +165,6 @@ date,player,companyName,companyCode
 2026-10-09,Umbers,"Umber Commodities",UMC
 2026-10-09,MrSmith33,VacFactory,VF33
 2026-11-15,mcksycr,"Vanguard Fabrication",VGF
-2026-10-09,MvdS,"Verdant Horizon Holdings",VHH
 2026-10-09,LoftyVolaterrae,Volaterrae,VOL
 2026-10-09,Revenantus,WardBox,WB
 2026-10-09,AstroHargo,"Westtrade Inc",WSTT

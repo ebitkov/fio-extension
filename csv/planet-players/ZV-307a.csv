@@ -1,5 +1,6 @@
 date,player,companyName,companyCode
 2026-10-09,Bobzor,"Indentured Servant",1NS
+2026-11-23,zillatron,"TwentySeven Bit Industries",27BI
 2026-10-09,AGM-114,"AG Micro Systems",AGMS
 2026-10-09,Arrathir,"Advanced Metallurgy Corp",AMC
 2026-10-09,Spacebar,"Aether Manufacturing",AMU
@@ -29,6 +30,7 @@ date,player,companyName,companyCode
 2026-10-09,akjyd,丰斯科技集团,FONS
 2026-10-09,Ragadais,Farnheit,FRNH
 2026-10-09,Mancules,"Galactic Metals",GMT
+2026-11-23,Sven_Grey,GreyCorp,GREC
 2026-10-09,guro.,Liang,GURO
 2026-10-09,alvteagiar,贵物寰宇联合,GWG
 2026-10-09,harveyG,"Harvey Industries",HAI
@@ -77,12 +79,14 @@ date,player,companyName,companyCode
 2026-10-09,huotianxiahu,RocketLeague,RLCN
 2026-10-09,PetterN,"Core Industries",SELF
 2026-10-18,Shrewdsun1,ShrewdFarms,SFRM
+2026-11-23,,s03h08,SH8
 2026-10-09,FUC_Prozer,"Star Lift Propulsion",SLPP
 2026-10-09,OptimizedFunction,"Stella Foundation",SL
 2026-10-09,Tanda,"Silent Running",SN
 2026-10-09,Aem,"Sustained Reborn",SR
 2026-10-09,Erilaz,"Stellar Skeleton Hardware",SSH
 2026-10-09,sidepipe,"Short Term Grains Ltd",STGL
+2026-11-23,golemss,"Space Tomato",STOM
 2026-10-09,62,Tch-inc,TCH
 2026-10-09,Exeler,Terrascape,TER
 2026-10-09,TuffyLess,TuffGooDz,TGD

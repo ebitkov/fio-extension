@@ -1,15 +1,16 @@
 date,player,companyName,companyCode
+2026-11-23,host3,corpcorporation,19ZN
 2026-10-09,pexddd,lilil,1H5
 2026-10-18,murilo.mai13,fghhz,78O8
 2026-10-09,mooninrain,April,A4
 2026-10-09,abinnongchang,abinfarming,ABF
 2026-10-09,GeneralZ,Ascensus,ACS
+2026-11-23,shuimu,Agri-Corp,ACZ
 2026-10-09,Jamesqiankun,jamesafu,AFU
 2026-10-09,Paradigm55,AgriGain,AGRI
 2026-10-09,Morduur,"Artanes Inc",AI
 2026-10-09,Alan_Noah,"Alopex Herbal Co",ALPX
 2026-10-09,AnC1r3l,ANCorp,ANCI
-2026-11-08,Rashood,Adnoc,AQW
 2026-10-09,Elarin,"Arcanum Guild",ARG
 2026-10-09,J.Farragut,"Armitage Solutions",ARTG
 2026-10-09,xSupeFly,"Apex Trustline Group",ATG
@@ -18,12 +19,14 @@ date,player,companyName,companyCode
 2026-10-09,atyopsis,"Axiom Labs",AXL
 2026-10-09,yap123,寰宇工业公司,AYAP
 2026-10-09,TikiBaby,"Balls Holding Corp",BALL
-2026-10-09,CollistaR,"BAT Inc",BATI
 2026-11-01,The_Second_Amendment,"BBL Incorporated",BBL
+2026-11-23,ballskin,"Ballskin Inc",BLSK
 2026-10-09,Stonke,BlastingInc,BLST
 2026-10-25,Michi1802,"Blue Michi",BMC
 2026-10-09,GuyKid88,Bogside,BOG
 2026-10-09,br000t5ch,"br000t5ch corporate",BR0C
+2026-11-23,belveste,borzz,BRZ
+2026-11-23,Opaist500,"Corp 500",C500
 2026-10-09,Lometir,可爱洛米集团,C7
 2026-11-08,centroide379,"Coop Aliança Manufacturera",CAMA
 2026-10-09,AnteChristo33,"Cauda Scorpionis",CAS
@@ -74,7 +77,6 @@ date,player,companyName,companyCode
 2026-10-09,Geminiseira,"Heartache Angel",HTA
 2026-10-09,SurvivorBob,"HT Consolidated",HT
 2026-10-09,PurpleOrange,Hydrohomies,HYDR
-2026-10-09,Ice_maple_syrup,Ice_maple_syrup,ICEY
 2026-11-08,Feddtoni,"Infinty Control",ICT
 2026-10-09,LilCodeDemon,"Insomniac Industrial Agency",IIA
 2026-10-09,TartarusMkII,"Imperian Logistics",IMP
@@ -88,17 +90,18 @@ date,player,companyName,companyCode
 2026-10-09,Kimling,Kimling,KIM
 2026-10-09,Filefolders,"Knott-Stone-Davis Cooperative",KSDC
 2026-11-01,mikkun610,KITAJIMA,KTJM
+2026-11-23,CharlieL24,"KnTST Clan Corp",KTST
 2026-10-09,Kurios,"Kuriosity Unbounded",KUR
-2026-11-15,LAZ.LTDA,"LAZ LTDA",LAZ
 2026-10-09,Zruty0,"Leocrotta Mercantile",LEOM
 2026-10-09,LordCT,"LLC Inc",LLC
 2026-10-09,LRT,LRTTTT,LRT
 2026-10-09,--SCHAITR--,"Lumerz LLP",LUME
-2026-11-15,,Luxury,LUX
+2026-11-15,Clown,Luxury,LUX
 2026-10-09,MayaShark,MayaCorp,MAYA
-2026-11-15,,Medulla,MEDU
+2026-11-15,Medulla,Medulla,MEDU
 2026-10-09,ScottDakilla,"Mineral Elemental Networking",MEN1
 2026-11-15,karolbilleci,MaterialFarmingNorm,MFN
+2026-11-23,Mjr_Tom,"Morningstar Farms",MGFM
 2026-10-18,MeagerMind,MeagerMindQ,MMQ
 2026-10-09,MioandMeow,MioandMeow,MNME
 2026-10-09,Id10t,"Momentum Management",MOMO
@@ -111,9 +114,9 @@ date,player,companyName,companyCode
 2026-10-09,NoobieElf,"Noobie Industries",NBY
 2026-10-09,Noelseppel,"New Wave Inc",NEW
 2026-10-09,shuki,NIGHTMARE,NMR
+2026-11-23,Revilo126,"Nova Tech",NVTC
 2026-10-09,ertyne,"NovaTech Consortium",NVT
 2026-10-09,Ablabla,"Organic Baselines",OBL
-2026-10-09,Omikusela,OmikuselaAG,OMI
 2026-10-09,mrmaxpower,OMNICORP,OMNI
 2026-10-09,old,食为天探索,OOO
 2026-10-09,Dr.Evil_,"Oil Rig Genesis Subsidiary",ORGS
@@ -139,22 +142,23 @@ date,player,companyName,companyCode
 2026-10-09,Discommodity,"Republic of Ceres",RC
 2026-10-09,Relm,AgriRelm,RELM
 2026-10-09,RGB.WOODEN.FISH,RGBFISH,RGB
+2026-11-23,fosknat,WREZP,RHI
 2026-10-09,Rinoic,"Rinoic Industries",RINI
 2026-10-09,Stribog,"Raven's Nest Provisions",RNP
 2026-10-09,wisdomme,"Roberts Space Industries",RSIS
 2026-10-09,raylu,raylu,RYL
+2026-11-23,Jack2401,SB-Service,SBS
 2026-10-09,SwitchBladeX9,SBladeXX,SBX
 2026-10-09,Scorprave,"Scorprave Construction GmbH",SCG
-2026-11-15,,Drachenschanze,SCHA
+2026-11-15,Drachenlord,Drachenschanze,SCHA
+2026-11-23,Unending6256,"Supply & Despair",SD
 2026-10-09,JohnnyBon2011,"SpaceFood INC",SFI
 2026-10-09,Syrim,"StarForge Materials",SFM
 2026-10-09,deepspace-,"space global",SGB
-2026-10-09,SiriKeeton,Echopraxia,SIRI
 2026-10-09,Souki,"Souki Inc",SKC
 2026-10-09,Atrium,"Skelli LLP",SKL
 2026-11-08,Yamato1941,敷波海運株式会社,SKO
 2026-10-09,SFScorpio,Skyprod,SKYP
-2026-10-09,mylrei,"Sloshy Incorporeal",SLSH
 2026-10-09,HanCholo,BurningPlants,SMOK
 2026-10-09,Matta,"Space Frontier Seller",SPFS
 2026-10-09,,"Space Frontier",SPF
@@ -162,6 +166,7 @@ date,player,companyName,companyCode
 2026-10-09,SmartSquirel,SquireSquirels,SQSQ
 2026-10-09,sqwarecircle,CФШПДол,SQW
 2026-10-09,SystemicRisk,"Systemic Risk Management",SRM
+2026-11-23,Octandre,"Saunders Group",SRS
 2026-10-09,sidepipe,"Short Term Grains Ltd",STGL
 2026-10-09,Siegrfried,"STK Industries",STKI
 2026-10-25,JackdawCanFly,StellarLife,STLI

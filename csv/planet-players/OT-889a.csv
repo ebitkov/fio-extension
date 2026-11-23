@@ -6,7 +6,6 @@ date,player,companyName,companyCode
 2026-10-09,,"Hirasaka Heavy Holdings",3H3X
 2026-10-11,,"Forty Thieves",40T
 2026-10-09,alament,"Helix Enterprises",A685
-2026-10-09,dawidbak,"AstroAdios Industries Comapny",AAIC
 2026-10-09,Aestye,"Aestye Industries",AES
 2026-10-09,,"argus limited",AGSU
 2026-10-09,Airymoon,Airymoon,AIRY
@@ -32,32 +31,28 @@ date,player,companyName,companyCode
 2026-10-09,Cirop,"Cirop Corp",CRCP
 2026-10-09,iseesee,"Daybreak Star Enterprises",DBSE
 2026-11-01,Twonkage,DinkDinkIndustries,DDI
-2026-10-09,,"Derakious Inc",DER
 2026-10-09,Dividebyone,Divide,DIV
 2026-10-09,Meatbeam,"Dark Matter Drilling Co",DMX
 2026-10-09,,"Doople Inc",DOOP
 2026-10-09,Jackabatrol,"Draconis Product Corporation",DRPC
 2026-11-15,,"Daedalus Systems Engineering",DSE
 2026-10-18,,大肥鱼工业,DSHI
+2026-11-23,,"DW Corp",DWC
 2026-11-08,PepeIsLepen,DwarfManufacturing,DWF
 2026-11-08,nbq,ECCCC,ECCC
-2026-10-09,,Ecyta,ECT
 2026-11-01,,"eddie morris-1c",ED1C
 2026-10-18,,EenaPrism,EENA
 2026-10-09,,hyperi,ELAN
 2026-10-09,Forcas,ElectroMeta,ELEM
-2026-10-09,,Emrelikun,EMR
 2026-10-09,illuineru,illuineru,ERUT
 2026-10-09,Espresso0,"Esperito Incorporated",ESPY
 2026-10-09,Boombastic,"Boom Chems",ES
 2026-10-09,,ETOFORRED,ETOO
 2026-10-09,Kremsoda,"ExoMet Technologies",EXOM
-2026-10-09,,"Hydra Holdings LLC",EYE
 2026-11-01,,Sceel,FAG
 2026-10-09,wexp,"Freedom Factory",FFQ
 2026-10-09,,"Flagship Heavy Industry",FHI
 2026-10-09,fishjd,fishcorp,FIH
-2026-10-09,TomasBergersen,"Robloxian Colonial Charter",FINE
 2026-10-09,,Falcore,FLCR
 2026-10-09,,"Frontier Resource Group",FRG2
 2026-10-09,-butterfly-,FeedTheUniverse,FTU
@@ -71,7 +66,6 @@ date,player,companyName,companyCode
 2026-10-09,Hevlikn,"Hevlikn Industries",HEVI
 2026-11-01,,"Hexadecane Hucksters",HEX
 2026-10-09,Ramielhl,"Hammond Robotics",HMRB
-2026-10-09,,Plant,HT1
 2026-10-09,Brownieus,"Icarus Expeditions",IEDS
 2026-10-09,Anduin,"Int'l Import-Export Trading Co",IIET
 2026-10-09,Wassah,"Indy ventures",INDV
@@ -85,7 +79,6 @@ date,player,companyName,companyCode
 2026-10-09,AntiTrianGle,Khan's-cop,KHSC
 2026-10-09,dave7567,"Kuat Industries",KICO
 2026-10-09,Kofk,Kofkompany,KOFK
-2026-10-09,,KongPei,KPY
 2026-10-09,Kronecker,Kronecker,KRON
 2026-11-01,,"lulu trade",KSKS
 2026-10-09,HanAti,"Lego Inc",LEGO
@@ -93,7 +86,6 @@ date,player,companyName,companyCode
 2026-10-09,banuka,"Lotus Holdings",LKH
 2026-10-09,Martyas,"Limitless LLC",LLCM
 2026-10-09,,liolionorg,LLOG
-2026-10-09,,Logarithms,LOG
 2026-10-09,Danico,"Longman Strategy and Operation",LONG
 2026-10-09,,loogcatt,LOOG
 2026-10-09,--SCHAITR--,"Lumerz LLP",LUME
@@ -106,6 +98,7 @@ date,player,companyName,companyCode
 2026-10-09,bobnobrain,Xenofungus,MUSH
 2026-10-09,iHateAnime,Miniverse,MV
 2026-10-09,,MiningWonder,MW11
+2026-11-23,,gonabuster,NCIS
 2026-10-09,,"NEO Industrial Holdings",NEOI
 2026-11-15,neverisland,neverisland,NISD
 2026-10-09,Age-Kahn,"North Star Group",NSG
@@ -115,11 +108,11 @@ date,player,companyName,companyCode
 2026-10-09,Orbis,Orbis,ORS
 2026-10-09,aleksmolot,"Pokemon Company",POKE
 2026-10-25,Harrison17,POLAR,POLR
+2026-11-23,prp1,PRP-1,PRP1
 2026-10-09,Pvf,PvFlo,PVF
 2026-10-09,Olit44,"Quebec Food",QCF
 2026-10-09,Absolutno,Quark,QRK
 2026-10-09,Rockwell_,Rockwell,RCWL
-2026-10-09,,Starmaker,REB
 2026-10-09,Rek,"Resource Extraction Services",RES
 2026-10-09,Ruyagormeyenadam,Ruyagormeyenadam,RGA
 2026-10-09,starWanderer,"Rise of Mining Star",RMS
@@ -130,7 +123,9 @@ date,player,companyName,companyCode
 2026-10-09,,"Sandbox Industries",SDBX
 2026-10-09,MDIllini,"Serenity Exploration Corp",SEC
 2026-10-09,MADDOG9100,"Stribog Federation",SGF
+2026-11-23,gazelevod,"шило на мыло",SHNM
 2026-10-09,SIGES,"SIGES CO Ltd",SIG
+2026-11-23,,"Silco Manufacturing",SLM
 2026-10-09,,SpaceK,SPCK
 2026-10-18,,星际尖峰公司,SPE
 2026-10-09,Lib,SpaceTec,SPTC
@@ -139,10 +134,10 @@ date,player,companyName,companyCode
 2026-10-09,550A-SY-Nth,守夜4th,SY4
 2026-10-09,xalf,"Space Industries",TBF
 2026-11-15,Griggalot,"The Commonwealth Corporation",TCCB
-2026-10-09,,The_Company,TCP
 2026-10-09,floor,"Greenwich TeaHouse",TH
 2026-10-09,anamnesi_a,"Transgalactic Innovation Div",TID
 2026-10-09,Rubicate,"Thinking Machines",TM
+2026-11-23,,"Tortelloni Gigantoni",TORT
 2026-10-09,Hollo,TorIndustries,TOR
 2026-10-09,Rhodium,"Tersolar Manufacturing",TRSL
 2026-10-09,realbandit,"The Star Business",TSB
@@ -159,6 +154,7 @@ date,player,companyName,companyCode
 2026-10-09,visconte,VIXCO,VXC
 2026-10-09,Tech-LiL,BrinkWorks,WEY7
 2026-10-09,Whiplashfunk,"Whiplash Enterprises",WHIP
+2026-11-23,,Wolf-comapny,WILK
 2026-10-09,CptWaffles,Waffles.inc,WINC
 2026-10-09,Woodpecker990,"Woody GmbH",WOOD
 2026-10-09,nuclearbowel,"Warp Industries",WPI
